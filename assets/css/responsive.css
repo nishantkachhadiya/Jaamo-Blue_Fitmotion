@@ -1,0 +1,5556 @@
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .container{
+        max-width: 1140px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1530px) {
+    .container{
+        max-width: 1300px;
+    }
+}
+@media screen and (min-width: 1531px) and (max-width: 1700px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1701px) {
+    .container{
+        max-width: 1550px;
+    }
+}
+@media screen and (min-width: 1920px) {}
+
+@media screen and (max-width: 1800px) { 
+    /*========================== Home page Css Start =======================*/
+    .ihr_social_media{
+        right: 2%;
+    }
+    .course_for_sale{
+        padding: 50px 85px 50px 40px;
+    }
+    .ihr_right_contain .ihr_right_image{
+        padding-top: 35px;
+    }
+    .main_title_italic, .main_title{
+        font-size: 80px;
+        margin-bottom: 10px;
+    }
+    .section_subtext{
+        font-size: 32px;
+    }
+
+    .ihr_chart_section{
+        padding: 335px 0px 170px;
+    }
+
+    .bewertungen_section{
+        padding: 115px 0px;
+    }
+    .mitgliedschaft_Jetzt_online {
+        padding: 100px 0px;
+    }
+    .wie_fit_sind_section{
+        padding: 100px 0px;
+    }
+    .wie_fit_title {
+        margin-bottom: 150px;
+    }
+    .ernährung_section{
+        padding: 150px 0 0px;
+    }
+    .kontakt_left, .offnungszeiten_left, .social_left{
+        min-width: 290px;
+    }
+    .kotakt_detials, .offnungszeiten_inner_section, .social_all_icon{
+        width: calc(100% - 290px);
+    }
+    .social_all_icon a svg {
+        width: 40px;
+        height: 40px;
+    }
+    .footer_right_section{
+        padding: 60px 10% 50px 70px;
+    }
+    /*========================== Home page Css End =======================*/ 
+
+    /*========================== kurse page Css Start =======================*/ 
+    .kurse_main_section{
+        padding: 100px 0;
+    }   
+    /*========================== kurse page Css End =======================*/ 
+
+    /* Belie Section Start */
+    .dotted_box{
+        top: 25%;
+        left: -200px;
+    }
+    .img_two h3{
+        left: 35px;
+    }
+    /* Belie Section End */
+}
+@media screen and (max-width: 1700px) {
+    /*========================== Home page Css Start =======================*/
+    .menu-nav ul li{
+        margin-right: 40px;
+    }
+    .menu-nav .common-small-btn{
+        margin-left: 40px;
+    }
+    .ihr_right_image{
+        width: 80%;
+    }
+    .ihr_studio_section{
+        padding-top: 110px;
+    }
+
+    .ihr_chart_section {
+        padding: 300px 0px 150px;
+    }
+    .ihr_inner_chart_section {
+        padding: 50px 70px;
+    }
+    .ihr_main_chart_section, .ihr_inner_chart_section .chart_title{
+        padding-right: 50px;
+    }
+    .mitgliedschaft_online_inner_section{
+        padding: 200px 0px;
+    }
+    .sind_model_circle{
+        width: 550px;
+        height: 550px;
+        top: -37px;
+    }
+    .sind_sie_section{
+        padding: 100px 50px;
+    }
+    .wie_fit_title {
+        margin-bottom: 80px;
+    }
+    .ernährung_section{
+        padding: 50px 0 0;
+    }
+
+    .footer_right_section .main_title_italic {
+        margin-bottom: 65px;
+    }
+    .social_left, .offnungszeiten_left, .offnungszeiten_inner_section, .social_all_icon {
+        margin-top: 50px;
+    }
+    .social_media {
+        margin-bottom: 350px;
+    }
+    .social_all_icon a svg{
+        width: 32px;
+        height: 32px;
+    }
+    .social_all_icon ul li a span{
+        margin-bottom: 0px;
+    }
+    .social_text {
+        font-size: 18px;
+    }
+    .section_subtext {
+        font-size: 30px;
+    }
+    .footer_main_title_section .section_subtext{
+        font-size: 42px;
+    }
+    .ihr_studion_big_img{
+        height: 686px;
+    }
+    /*========================== Home page Css End =======================*/    
+
+    /*========================== kurse page Css End =======================*/ 
+    .kurse_main_section{
+        padding: 80px 0;
+    } 
+    .kurse_left_contain{
+        width: 15%;
+    }  
+    .kurse_right_contain{
+        width: calc(100% - 15%);
+    }
+    .kurse_table{
+        padding: 30px 40px;
+        margin-top: 45px;
+    }
+    .kurse_inner_table{
+        padding: 50px 40px;
+    }
+
+    .kurse_im_umerblick_section{
+        padding-left: 8%;
+    }
+    /*========================== kurse page Css Start =======================*/ 
+
+    /* Studio Page CSS Start  */
+    /* Second Section Start */
+    .unser_team_section{
+        position: relative;
+        z-index: 1;
+    }
+    /* Second Section End */
+    /* Studio Page CSS End  */
+
+    /* leistungen Page CSS Start */
+    /* Second Section Start*/
+    .was_wir_contains .common-small-btn{
+        min-width: 100%;
+    }
+    /* Second Section End*/
+
+    /* Third section Start */
+    .eindrucke_aus_section:after{
+        z-index: -1;
+        right: -13.5%;
+    }
+
+    /* Third section End */
+    /* leistungen Page CSS End */
+}
+@media screen and (max-width: 1600px) {
+    .unser_main_team_section:before {
+        left: -9.5%;
+        transform: scale(0.8);
+    }
+    .beitrag_section .b_right_info{
+        padding-top: 60px;
+    }
+    .ihr_social_media {
+        right: 0.8%;
+    }
+    .menu-nav .common-small-btn {
+        margin-left: 20px;
+    }
+    body{
+        padding: 84px 0px 0px;
+    }
+    .main_title_italic, .main_title{
+        font-size: 70px;
+        margin-bottom: 10px;
+    }
+    .main-title {
+        font-size: 45px;
+    }
+    .section_subtext{
+        font-size: 30px;
+    }
+    .logo-shape {
+        width: 380px;
+    }
+    .menu-nav ul li {
+        margin-right: 20px;
+    }
+    .menu-nav ul {
+        padding-left: 110px;
+    }
+    .common-banner-content .common-btn-block {
+        padding-top: 35px;
+    }
+    .h-col {
+        width: auto;
+    }
+    .common-header-banner-line-block {
+        padding: 70px 0;
+    }
+    .menu-nav ul li a:after{
+        bottom: 22px;
+    }
+
+    /*========================== Home page Css Start =======================*/    
+    .ihr_right_image{
+        width: 65%;
+    }
+    .ihr_left_contain {
+        margin-top: 15%;
+    }
+    .course_for_sale {
+        padding: 40px 80px 40px 40px;
+    }
+    .course_for_sale {
+        bottom: 18%;
+    }
+    .course_for_sale h2{
+        font-size: 28px;
+    }
+    .course_for_sale p{
+        margin: 20px 0 25px;
+    }
+    .course_for_sale a{
+        font-size: 22px;
+    }
+    .ihr_main_section:after {
+        transform: scale(0.8);
+        left: -9.8%
+    }
+    .dots_images{
+        transform: scale(0.8);
+        left: -15%;
+        bottom: -22%;
+    }
+    .ihr_right_contain .ihr_right_image{
+        left: -20%;
+    }
+    .ihr_social_media a + a {
+        margin-top: 50px;
+    }
+    .ihr_studion_big_img{
+        height: 650px;
+    }
+    .ihr_studio_contain .ihr_contain_text {
+        margin: 45px 0 30px;
+    }
+    .ihr_chart_section .container:after{
+        left: -13.3%;
+    }
+    .ihr_chart_section .container:before{
+        right: -13.8%;
+    }
+
+    .leistungen_section{
+        padding: 90px 0px;
+    }
+    .leistungen_section .main_title{
+        margin-bottom: 50px;
+    }
+    .leistungen_inner_section{
+        margin: 0 -25px;
+    }
+    .leistungen_inner_section .col-6{
+        padding: 0 25px;
+    }
+    .leistungen_image{
+        width: 185px;
+        height: 185px;
+    }
+    .leistungen_contain{
+        width: calc(100% - 185px);
+    }
+    .leistungen_contain .common-small-btn{
+        min-width: 100%;
+        font-size: 22px;
+    }
+    .leistungen_all_items{
+        padding: 40px;
+    }
+    .leistungen_contain p{
+        padding-right: 20px;
+    }
+    .leistungen_contain {
+        min-height: 230px;
+    }
+    .leistungen_images_section:before {
+        display: none;
+    }
+    .leistungen_images_section:after {
+        right: -20%;
+    }
+
+
+    .bewertungen_section {
+        padding: 100px 0px;
+    }
+    .bewertungen_contain{
+        padding: 35px 30px 35px;
+    }
+    .bewertungen_img{
+        width: 145px;
+        height: 145px;
+    }
+    .bewertungen_sec_img{
+        width: 180px;
+        height: 180px;
+    }
+    .bewertungen_inner_section{
+        padding: 50px 0px 0px;
+    }
+    .bewertungen_col_first:nth-child(1) .bewertungen_contain:after{
+        transform: scale(0.8);
+        bottom: -18%;
+        left: -23%;
+    }
+    .bewertungen_col_first:nth-child(2) .bewertungen_contain:after{
+        transform: scale(0.8);
+        right: -12%;
+        top: -11%;
+    }
+    .bewertungen_col_first:nth-child(3) .bewertungen_contain:after{
+        transform: scale(0.8);
+        bottom: -18%;
+        right: -22%;
+    }
+    .bewerte_section{
+        padding-top: 70px;
+    }
+    .bewertungen_col_first .section_subtext{
+        margin-bottom: 12px;
+    }
+    .bewertungen_contain .ihr_contain_text{
+        line-height: 1.4;
+    }
+
+    .online_circle_image{
+        width: 650px;
+        height: 650px;
+    }
+    .mitgliedschaft_online_inner_section {
+        padding: 150px 0px;
+    }
+    .mitgliedschaft_Jetzt_online {
+        padding: 80px 0px;
+    }
+    .wie_fit_sind_section {
+        padding: 80px 0px;
+    }
+
+    .wie_fit_sind_section:after{
+        transform: scale(0.9);
+        left: -11.4%;
+    }
+    .faq_section{
+        padding: 80px 0px;
+    }
+
+    .footer_abonniere_all{
+        padding: 50px 50px;
+    }
+    .kontakt_left, .offnungszeiten_left, .social_left{
+        margin-right: 20px;
+        min-width: 267px;
+    }
+    .kotakt_detials, .offnungszeiten_inner_section, .social_all_icon{
+        width: calc(100% - 267px);
+    }
+    .social_media {
+        margin-bottom: 310px;
+    }
+    .footer_abonniere_all {
+        padding: 35px;
+    }
+    .footer_text{
+        font-size: 18px;
+    }
+    /*========================== Home page Css End =======================*/    
+    .menu-nav ul li a{
+        padding: 22px 0px;
+    }
+    .social_text{
+        font-size: 16px;
+    }
+    .call_popup_menu {
+        padding: 45px 15px;
+    }
+    .ihr_call a{
+        padding: 8px;
+    }
+    .ihr_call a svg{
+        width: 40px;
+        height: 40px;
+    }
+
+    /*========================== kurse page Css Start =======================*/
+    .kurse_im_slider {
+        padding-top: 70px;
+    }
+    .kurse_jetzt_probetraining_section{
+        padding: 135px 0px 100px;
+    }
+    .kurse_im_item .common-small-btn{
+        font-size: 22px;
+        padding: 10px 15px;
+    }
+    /*========================== kurse page Css End =======================*/
+
+    /* Contact Page CSS Start*/
+    /*First Section Start*/
+    .kontakt_page{
+        padding: 130px 0 50px;
+    }
+    .kontakt_details_section .ihr_chart_section .container:after{
+        z-index: -1;
+    }
+    .kontakt_details_section {
+        padding: 20px 0 100px;
+    }
+    .kontact_details {
+        padding: 50px 0px;
+    }
+    /*First Section End*/
+    /* Contact Page CSS End*/
+
+    /* Studio Page CSS Start  */
+    /* First Section Start */
+    .team_treibstoff_section {
+        padding: 20px 0 0px;
+    }
+    .t_model_img img{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+    .team_unser_team_section .team_unser_inner_section{
+        padding: 125px 0px 75px 120px;
+    }
+    .team_unser_inner_section .team_model_imag{
+        width: 550px;
+        height: 550px;
+        right: 60px;
+        top: 8%;
+    }
+    .team_unser_inner_section .team_contain{
+        padding: 70px 80px;
+    }
+    .team_unser_team_section .Left_dotted_box {
+        left: -10.5%;
+    }
+    /* First Section End */
+    /* Video Section Start */
+    .video_details h4{
+        margin-bottom: 10px;
+    }
+    .jetzt_main_section .main_title{
+        font-size: 60px;
+    }
+    .video_bm{
+        height: 675px;
+    }
+    .vr_showroom_section:after{
+        right: -11.2%;
+        top: 3%;
+        transform: scale(0.7);
+    }
+    .video_details .play{
+        width: 85px;
+        height: 85px;
+    }
+    .play .fa-play{
+        font-size: 30px;
+    }
+    .unser_main_team_section:after {
+        bottom: 26%;
+        right: -12.4%;
+    }
+    .vr_showroom_section:before{
+        bottom: -7%;
+        left: -11.5%;
+        transform: scale(0.7);
+
+    }
+    /* Video Section End */
+
+    /* Studio Page End  */
+
+
+    /* leistungen Page CSS Start */
+    /* first Section start */
+    .main_category_inner_section {
+        margin-bottom: 30px;
+    }
+    .main_category_graident {
+        padding-top: 100px;
+    }
+    .personal_traing_img_section .personal_img {
+        width: 600px;
+        height: 600px;
+        top: -40%;
+    }
+    /* first Section End */
+
+    /* Second Section Start*/
+    .was_circle_img svg {
+        width: 50px;
+    }
+    .was_circle_img {
+        width: 70px;
+        height: 70px;
+    }
+    .was_wir_contains .more_text_height {
+        margin: 10px 0 10px;
+    }
+    .was_wir_item .was_images{
+        max-height: 185px;
+    }
+    .was_wir_contains{
+        padding: 45px 28px 25px 28px;
+    }
+    .was_wir_bieten_slider .main_title {
+        margin-bottom: 25px;
+    }
+    .was_wir_bieten_section {
+        padding: 120px 0 40px;
+    }
+    /* Second Section End*/
+
+    /* Third section Start */
+    .trainiere_section {
+        padding: 80px 0 55px;
+    }
+    .trainiere_inner .main_title_italic{
+        font-size: 80px;
+    }
+    /* Third section End */
+
+    /* leistungen Page CSS End */
+
+    .logo-shape {
+        width: 380px;
+    }
+    .menu-nav ul li {
+        margin-right: 20px;
+    }
+    .menu-nav ul {
+        padding-left: 110px;
+    }
+    .main-title {
+        font-size: 45px;
+    }
+    .common-banner-content .common-btn-block {
+        padding-top: 35px;
+    }
+    .h-col {
+        width: auto;
+    }
+    .common-header-banner-line-block {
+        padding: 70px 0;
+    }
+    .kurse_main_table:after{
+        transform: scale(0.7);
+        right: -3%;
+        bottom: -5%;
+    }
+    .kurse_main_table{
+        padding-bottom: 191px;
+    }
+}
+
+@media screen and (max-width: 1530px) {
+
+    /*========================== Home page Css Start =======================*/
+    .main_title_italic, .main_title{
+        font-size: 60px;
+        margin-bottom: 0px;
+    }
+    .section_subtext{
+        font-size: 26px;
+    }
+    .course_for_sale {
+        padding: 40px 50px 40px 40px;
+    }
+    .course_for_sale h2{
+        font-size: 24px;
+    }
+    .course_for_sale p {
+        margin: 15px 0 20px;
+    }
+    .course_for_sale a {
+        font-size: 20px;
+    }
+    .ihr_social_media a + a {
+        margin-top: 40px;
+    }
+
+    .ihr_studion_big_img {
+        height: 580px;
+    }
+    .ihr_studion_big_img:after{
+        transform: scale(0.9);
+    }
+
+    .ihr_inner_chart_section {
+        padding: 40px 50px;
+    }
+    .ihr_main_chart_section, .ihr_inner_chart_section .chart_title{
+        padding-right: 40px;
+    }
+    .chart_inner_title{
+        margin-top: 15px;
+    }
+    .ihr_chart_main_lines{
+        margin: 25px 0px 0px;
+    }
+    .day_list_section .all_day_list{
+        margin-top: 120px;
+    }
+    .all_day_list ul li p, .all_day_list ul li span, .chart_wrap_lines p{
+        font-size: 22px;
+    }
+    .ihr_chart_lines{
+        height: 340px;
+        width: 45px;
+    }
+    .dropdown a > span {
+        font-size: 36px;
+    }
+    .day_list_section .all_day_list {
+        margin-top: 100px;
+    }
+
+    .leistungen_section {
+        padding: 70px 0px;
+    }
+
+    .online_circle_image{
+        width: 600px;
+        height: 600px;
+    }
+    .jetzt_online_section{
+        padding: 90px 0px;
+    }
+    .mitgliedschaft_online_inner_section {
+        padding: 120px 0px;
+    }
+
+    .sind_sie_section {
+        padding: 70px 50px;
+    }
+    .sind_model_circle {
+        width: 480px;
+        height: 480px;
+        top: -37px;
+    }
+    .wie_fit_title {
+        margin-bottom: 50px;
+    }
+    .sind_sie_section .ihr_contain_text{
+        margin: 20px 0 45px;
+    }
+
+    .ernährung_section {
+        padding: 0px 0 0;
+    }
+    .wie_fit_sind_section:after{
+        bottom: 0%;
+    }
+    .ernährung_title a {
+        margin: 20px 0 35px;
+    }
+    .ernährung_section:after{
+        left: -14.5%;
+    }
+
+    .faq_section:after, .faq_section:before{
+        transform: scale(0.8);
+    }
+    .footer_abonniere_all p{
+        font-size: 20px;
+    }
+    .footer_abonniere_all .common-small-btn{
+        font-size: 20px;
+    }
+    .footer_abonniere_all input {
+        min-width: 344px;
+        height: 50px;
+    }
+    .social_media {
+        margin-bottom: 210px;
+    }
+    .footer_right_section .main_title_italic {
+        margin-bottom: 35px;
+    }
+    .footer_abonniere_section {
+        bottom: 12.5%;
+    }
+    .social_left, .offnungszeiten_left, .offnungszeiten_inner_section, .social_all_icon {
+        margin-top: 30px;
+    }
+    .footer_right_section {
+        padding: 50px 10% 50px 50px;
+    }
+
+    .social_all_icon a svg {
+        width: 30px;
+        height: 30px;
+    }
+    .social_text {
+        font-size: 17px;
+    }
+    .kontakt_left, .offnungszeiten_left, .social_left{
+        min-width: 232px;
+    }
+    .kotakt_detials, .offnungszeiten_inner_section, .social_all_icon{
+        width: calc(100% - 232px);
+    }
+    .footer_main_title_section .section_subtext{
+        font-size: 38px;
+    }
+    .ihr_call{
+        width: 40px;
+        height: 40px;
+        right: 55px;
+        bottom: 55px;
+    }
+    .ihr_call{
+        right: 40px;
+        bottom: 40px;
+    }
+    .ihr_call a svg{
+        width: 35px;
+        height: 35px;
+    }
+    .footer_abonniere_all .email_box input{
+        height: 46px;
+    }
+
+    /*========================== Home page Css End =======================*/  
+
+    /*========================== kurse page Css Start =======================*/
+    .kurse_main_table:before{
+        transform: scale(0.8);
+        left: -6%;
+    }
+    .kurse_main_section {
+        padding: 70px 0;
+    }
+    .kurse_right_contain tr td p{
+        font-size: 17px;
+    }
+    .kurse_main_table:after{
+        transform: scale(0.8);
+        right: -1%;
+    }
+    .kurse_main_table{
+        padding-bottom: 265px;
+    }
+    .jetzt_d_flex .main_title{
+        font-size: 68px;
+    }
+    .kurse_jetzt_probetraining_section:before {
+        transform: scale(0.8);
+    }
+    .kurse_jetzt_probetraining_section .common-small-btn{
+        font-size: 22px;
+    }
+    .kurse_hart {
+        position: absolute;
+        right: -12.5%;
+        top: 14%;
+        transform: translateY(-50%);
+        transform: scale(0.8);
+    }
+    .kurse_im_item{
+        padding: 25px;
+    }
+    .kurse_im_item .common-small-btn{
+        margin-top: 20px;
+    }
+    .kurse_im_slider {
+        padding-top: 50px;
+    }
+    /*========================== kurse page Css End =======================*/
+
+    /*Contact Page CSS Start*/
+    .jetzt_probetraining_section .dotted_pattern_box {
+        right: -13.5%;
+    }
+    .kontakt_details_section .kontakt_map_section {
+        height: 530px;
+    }
+    .address_icon, .phone_img {
+        width: 72px;
+    }
+    .kontakt_page {
+        padding: 80px 0 50px;
+    }
+    .address_icon, .phone_img {
+        margin-right: 20px;
+    }
+    /*Contact Page CSS End*/
+
+
+
+    /* Studio Page CSS Start  */
+    /* First Section Start */
+    .team_unser_team_section .Left_dotted_box {
+        left: -11.5%;
+    }
+    .team_unser_team_section .team_unser_inner_section {
+        padding: 125px 0px 75px 100px;
+    }
+    .team_unser_inner_section .team_model_imag {
+        width: 500px;
+        height: 500px;
+        right: -50px;
+        top: 7%;
+    }
+    .team_quate {
+        max-width: 509px;
+    }
+    /* First Section End */
+    /* Second Section Start */
+    .unser_team_section .main_title{
+        margin-bottom: 40px;
+    }
+    .einblicke_main_section .belie_section .belie_heading h2,
+    .unser_team_section .main_title{
+        font-size: 70px;
+    }
+    /* Second Section End */
+
+    /*Video Section Start*/
+    .vr_showroom_section {
+        padding: 80px 0 50px;
+    }
+    .jetzt_main_section .main_title{
+        font-size: 50px;
+    }
+    .uberzeuge_section {
+        padding: 50px 0px;
+    }
+    /*Video Section End*/
+    /* Studio Page End  */
+
+    /* leistungen Page CSS Start */
+    /* first Section start */
+    .perasonal_training_main {
+        padding: 60px 0 60px;
+    }
+    /* first Section End */
+
+    /* Second Section Start*/
+    .was_circle_img svg{
+        width: 48px;
+    }
+    .personal_trading_contain h2{
+        font-size: 30px;
+    }
+    /* Second Section End*/
+
+    /* Third section Start */
+    .eindrucke_aus_img_section {
+        position: relative;
+        height: 600px;
+    }
+    .eindrucke_aus_img img {
+        width: 100%;
+        height: 677px;
+        object-fit: cover;
+    }
+    .trainiere_section {
+        padding: 60px 0 55px;
+    }
+    .trainiere_inner .main_title_italic{
+        font-size: 70px;
+    }
+    .eindrucke_aus_contain .main_title {
+        margin-bottom: 30px;
+    }
+    .eindrucke_aus_contain .common-small-btn {
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+    /* Third section End */
+    /* leistungen Page CSS End */
+
+    /* Alle Section Start */
+    .alle_section .row .alle_cloumn {
+        padding: 0 15px;
+    }
+    .alle_section .alle_row {
+        margin: 0 -15px;
+    }
+    .alle_row .dotted_img_one {
+        right: -285px;
+    }
+    .alle_row + .alle_row .dotted_img_two {
+        left: -283px;
+    }
+    .alle_section .alle_row + .alle_row {
+        padding-top: 50px;
+    }
+    .alle_margin{
+        margin-top: 30px;
+    }
+    /* Alle Section End */
+
+    .mitgliedschaft_online_section:after {
+        transform: scale(0.8);
+        width: unset;
+        height: unset;
+        left: -12.5%;
+    }
+    .kurse_main_table:after {
+        transform: scale(0.5);
+        right: -4%;
+        bottom: -12%;
+    }
+    .kurse_main_table {
+        padding-bottom: 90px;
+    }
+    .mitgliedschaft_online_section:before{
+        background-position: 63% 43%;
+        background-repeat: no-repeat;
+    }
+}
+@media screen and (max-width: 1440px) {
+    body{
+        padding: 78px 0px 0px;
+    }
+
+
+    .menu-nav ul li a, .menu-nav ul li .dropdown-submenu li > a {
+        font-size: 16px;
+    }
+./*header-btn-block {
+display: none;
+}*/
+.home-banner-image {
+    border-radius: 80px 0 0 80px;
+}
+.common-banner-image .cm-shape {
+    width: 100px;
+    left: -1px;
+}
+
+/*========================== Home page Css Start =======================*/
+.header-btn-block .common-small-btn{
+    font-size: 18px;
+}
+.course_for_sale {
+    bottom: 14%;
+}
+.ihr_right_image {
+    width: 58%;
+}
+.ihr_right_contain .ihr_right_image {
+    left: -12%;
+}
+.course_for_sale{
+    padding: 25px 40px 25px 25px;
+}
+.course_for_sale p {
+    margin: 10px 0 12px;
+}       
+.ihr_social_media{
+    top: 0.5%;
+    right: 3%;
+}
+
+.ihr_studio_section{
+    padding-top: 90px;
+}
+.ihr_studion_big_img {
+    height: 525px;
+}
+.ihr_studio_contain .ihr_contain_text {
+    margin: 35px 0 25px;
+}
+.ihr_studion_big_img:after {
+    transform: scale(0.8);
+    right: -14%;
+}
+
+.ihr_chart_section {
+    padding: 240px 0px 120px;
+}
+.chart_wrap_lines + .chart_wrap_lines{
+    margin-left: 15px;
+}
+.ihr_main_chart_section, .ihr_inner_chart_section .chart_title{
+    padding-right: 25px;
+}
+.day_list_section .all_day_list{
+    min-width: 350px;
+}
+.ihr_chart_section .container:after {
+    left: -15.3%;
+}
+.ihr_chart_section .container:before {
+    right: -14.8%;
+}
+
+.leistungen_all_items {
+    padding: 30px;
+}
+.leistungen_contain {
+    min-height: 210px;
+}
+.leistungen_image {
+    width: 160px;
+    height: 160px;
+}
+.leistungen_contain{
+    width: calc(100% - 160px);
+}
+.leistungen_images_section:before {
+    right: -11.5%;
+    transform: scale(0.8);
+}
+.leistungen_images_section:after{
+    transform: scale(0.8);
+} 
+
+.bewerte_section .common-small-btn{
+    padding: 8px 15px;
+    min-width: 350px;
+}
+.ihr_rating svg{
+    width: 18px;
+}
+
+.bewertungen_section{
+    padding: 80px 0px;
+}
+.bewerte_section {
+    padding-top: 60px;
+}
+.mitgliedschaft_online_inner_section {
+    padding: 90px 0px;
+}
+
+.sind_model_circle {
+    right: 45px;
+}
+.sind_sie_section {
+    padding: 55px 40px;
+}
+.footer_abonniere_inner_section {
+    padding-left: 120px;
+}
+.footer_abonniere_all .common-small-btn, .footer_abonniere_all .email_box input{
+    min-width: 344px;
+}
+.kontakt_left, .offnungszeiten_left, .social_left{
+    margin-right: 10px;
+}
+.footer_right_section {
+    padding: 50px 9% 50px 50px;
+}
+.footer_abonniere_section{
+    right:9%;
+}
+.footer_main_title_section .section_subtext{
+    font-size: 32px;
+}
+
+.call_popup_menu  .common-small-btn{
+    padding: 8px 46px;
+    min-width: 310px;
+}
+.call_dots{
+    transform: scale(0.8);
+    left: -4%
+}
+.tel_email_section{
+    margin-top: 35px;
+}
+.kurse_main_table:after{
+    transform: scale(0.6);
+    right: -5%;
+}
+.kurse_im_umerblick_section {
+    padding-left: 11%;
+}
+.kurse_jetzt_probetraining_section {
+    padding: 135px 0px 70px;
+}
+.jetzt_d_flex .main_title {
+    font-size: 60px;
+}
+/*========================== Home page Css End =======================*/
+
+
+/* Studio Page CSS Start  */
+/* Second Section Start */
+.member_name_and_hobbys{
+    margin-top: 10px;
+}
+.unser_team_box{
+    padding:30px;
+}
+.unser_team_box h3{
+    font-size: 22px;
+}
+.unser_main_team_section {
+    padding: 40px 0 70px;
+}
+.team_quate {
+    max-width: 449px;
+}
+.last_first_box .belie_image {
+    height: 353px;
+}
+/* Second Section End */
+
+/* Third Section Start */
+.einblicke_main_section .belie_box_three .belie_mail_icon{
+    max-width: 100%;
+}
+.einblicke_main_section .belie_mail_icon,
+.einblicke_main_section .belie_box_two,
+.einblicke_main_section .belie_mail_icon,
+.einblicke_main_section .belie_box_two,
+.news_page .belie_box_img,
+.news_page .belie_box_three,
+.news_page .belie_box_two{
+    padding: 20px;
+}
+.vr_showroom_section:after{
+    right: -11.2%;
+    top: 1%;
+    z-index: -1;
+}
+.vr_showroom_section{
+    z-index: 1;
+}
+.einblicke_box_contain{
+    margin-bottom: 50px;
+}
+.video_details h4{
+    margin-bottom: 25px;
+}
+
+/* Third Section End */
+
+/* Studio Page CSS End  */
+
+/* leistungen Page CSS Start */
+/* Second Section Start */
+.personal_traing_img_section .personal_img {
+    width: 530px;
+    height: 530px;
+    top: -32%;
+}
+.was_wir_contains {
+    padding: 37px 28px 25px 28px;
+}
+.was_wir_item .was_wir_contains h3 {
+    font-size: 23px;
+}
+.was_wir_contains .common-small-btn{
+    font-size: 20px;
+}
+/* Second Section End */
+
+/* Third Section Start */
+.trainiere_inner .main_title_italic {
+    font-size: 48px;
+}
+.eindrucke_aus_img img {
+    height: 650px;
+}    
+/* Third Section End */
+/* leistungen Page CSS End */
+
+/* News Section Start */
+.news_section{
+    padding-top: 40px;
+}
+.news_section .main_title h3 {
+    font-size: 60px;
+}
+.news_section .ihr_contain_text{
+    padding-top: 35px;
+}
+/* News Section End */
+
+/* Alle Section Start */
+.alle_section .alle_row .dotted_img_one {
+    right: -320px;
+}
+.alle_section .alle_row + .alle_row .dotted_img_two {
+    left: -312px;
+}
+/* Alle Section End */
+
+/* Beitrag Section Start */
+
+.beitrag_section .b_right_info {
+    padding-top: 0px;
+    padding-left: 30px;
+}
+.beitrag_section .ihr_contain_text {
+    padding-top: 20px;
+    max-width: 95%;
+}
+.beitrag_section .b_left_img {
+    width: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.beitrag_section .main_title h3 {
+    font-size: 60px;
+}
+/* Beitrag Section End */
+
+/* Belie Section Start */
+.belie_mail_icon{
+    max-width: 35%;
+    margin: 0 auto;
+}
+.dotted_box{
+    top: 33%;
+    width: 200px;
+    left: -120px;
+}
+.belie_box_two .bottom_title h4{
+    padding-top: 20px;
+}
+.belie_box_three {
+    padding: 30px;
+}
+.belie_box_three .mail_title h4 {
+    max-width: 100%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    font-size: 22px;
+}
+.belie_last_twobox .last_first_box, .last_second_two {
+    padding: 20px;
+}
+.studio_page .belie_box_one .belie_box_img{
+    padding: 20px;
+}
+.belie_last_twobox .last_second_two{
+    padding: 20px;
+}
+.belie_box_two{
+    padding: 25px;
+}
+/* Belie Section End */
+
+.menu-nav ul li a, .menu-nav ul li .dropdown-submenu li > a {
+    font-size: 16px;
+}
+/* .header-btn-block {
+display: none;
+}*/
+.home-banner-image {
+    border-radius: 80px 0 0 80px;
+}
+.common-banner-image .cm-shape {
+    width: 100px;
+    left: -1px;
+}
+.mitgliedschaft_online_section:after {
+    transform: scale(0.6);
+    left: -12.5%;
+}
+.header-btn-block .common-small-btn{
+    margin-left: 20px;
+}
+
+}
+@media screen and (max-width: 1360px) {
+    /*========================== Home page Css End =======================*/
+    .unser_main_team_section:before {
+        left: -10.5%;
+        transform: scale(0.6);
+    }
+    .main_title_italic, .main_title {
+        font-size: 65px;
+    }
+    .section_subtext {
+        font-size: 24px;
+    }
+    .ihr_main_section:after {
+        transform: scale(0.6);
+        left: -10.8%;
+    }
+    .dots_images {
+        transform: scale(0.7);
+        left: -18%;
+        bottom: -26%;
+    }
+    .ihr_social_media {
+        right: 2%;
+    }
+    .ihr_social_media a svg{
+        width: 35px;
+    }
+    .ihr_chart_section {
+        padding: 200px 0px 90px;
+    }
+    .faq_section:after, .faq_section:before{
+        transform: scale(0.7);
+    }
+    .faq_section:after{
+        left: -13%;
+    }
+    .faq_section:before{
+        right: -13%;
+    }
+    .offnungszeiten_inner_section ul li{
+        flex-basis: 100%;
+    }
+    .offnungszeiten_inner_section ul li + li{
+        margin-top: 5px;
+    }
+    .social_all_icon ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .social_all_icon ul li{
+        width: 100%; 
+    }
+
+    .social_left, .offnungszeiten_left, .offnungszeiten_inner_section, .social_all_icon{
+        margin-top: 20px;
+    }
+    .social_all_icon ul li + li{
+        margin-top: 15px;
+    }
+    .footer_abonniere_all {
+        padding: 30px 30px;
+    }
+    .footer_abonniere_all p {
+        font-size: 18px;
+    }
+    .footer_abonniere_all > img{
+        width: 40px;
+    }
+    .footer_abonniere_all .common-small-btn, .footer_abonniere_all .email_box input{
+        min-width: 300px;
+    }
+    .footer_abonniere_all input{
+        background-position: 10% 50%;
+    }
+    .ihr_call{
+        right: 35px;
+        bottom: 35px;
+    }
+    .ihr_call a svg{
+        width: 30px;
+        height: 30px;
+    }
+    .email_img{
+        left: 10%;
+    }
+
+    .kurse_im_umerblick_section {
+        padding-left: 9%;
+    }
+    .kurse_contain p, .kurse_title p{
+        font-size: 16px;
+    }
+    .kurse_im_item .common-small-btn{
+        padding: 8px 15px;
+    }
+    .kurse_im_item {
+        padding: 15px;
+    }
+    .kurse_title h3{
+        font-size: 22px;
+    }
+    /*========================== Home page Css End =======================*/
+
+    /*Contact Page CSS Start */
+    .kontakt_page {
+        padding: 80px 0 50px;
+    }
+    .kontakt_details_section .ihr_chart_section {
+        padding-top: 200px;
+    }
+    .jetzt_probetraining_section{
+        padding-bottom: 50px;
+    }
+    .kontakt_details_section {
+        padding: 75px 0 80px;
+    }
+    .jetzt_probetraining_section .kontact_details {
+        padding: 25px 0px;
+    }
+    .jetzt_probetraining_inner_section .submit_btn{
+        margin-top: 0px;
+    }
+    .jetzt_probetraining_inner_section .submit_btn{
+        padding: 20px 0; 
+    }
+    /*Contact Page CSS End */
+
+    /* Studio Page CSS Start  */
+    /* First Section Start */
+    .team_unser_team_section .Left_dotted_box {
+        left: -14.5%;
+    }
+    .team_unser_inner_section .team_model_imag {
+        width: 480px;
+        height: 480px;
+        right: -25px;
+        top: 8%;
+    }
+    .team_unser_inner_section .team_contain {
+        padding: 50px 80px;
+    }
+    /* First Section End */
+
+    /* Second Section Start */
+    .einblicke_main_section .belie_section .belie_heading h2,
+    .unser_team_section .main_title{
+        font-size: 65px;
+    }
+    .unser_team_margin {
+        margin-top: 40px;
+    }
+    .unser_team_section .row .unser_col {
+        padding: 0 15px;
+    }
+    .unser_team_section .row {
+        margin: 0px;
+    }
+    /* Second Section End */
+
+    /*Video Section Start*/
+    .jetzt_main_section .main_title{
+        font-size: 40px;
+    }
+    .vr_showroom_section:before{
+        left: -14.5%;
+        bottom: -6%;
+    }
+    /*Video Section End*/
+    /* Studio Page End  */
+
+    /* leistungen Page CSS Start */
+    /* first Section Start */
+    .perasonal_training_main {
+        padding: 40px 0 50px;
+    }
+    /* first Section End */
+
+    /* Second Section Start */
+    .was_circle_img {
+        width: 60px;
+        height: 60px;
+        top: -30px;
+    }
+    .was_circle_img svg {
+        width: 40px;
+    }
+    /* Second Section End */
+
+    /* Third Section Start */
+    .eindrucke_aus_img img {
+        height: 640px;
+    }
+    /* Third Section End */
+    /* leistungen Page CSS End */
+
+    .dotted_box {
+        top: 38%;
+        left: -90px;
+        width: 150px;
+    }
+}
+
+@media (max-width: 1280px){
+    .ihr_social_media {
+        right: 2%;
+    }
+    .ihr_social_media a + a{
+        margin-top: 25px;
+    }
+    .ihr_social_media a svg{
+        width: 28px;
+    }
+    .footer_abonniere_all * + * {
+        margin-left: 20px;
+    }
+    .footer_abonniere_all {
+        padding: 30px 20px;
+    }
+    .email_img {
+        left: 4%;
+    }
+    .mitgliedschaft_online_section:after {
+        left: -14.5%;
+    }
+
+    .kurse_im_umerblick_section {
+        padding-left: 6%;
+    }
+}
+
+@media (max-width: 1260px){
+    .ihr_social_media {
+        right: 0.45%;
+    }
+}
+@media screen and (max-width: 1199px) {
+
+    .unser_main_team_section:before {
+        left: -16.5%;
+    }
+    .header-btn-block .common-small-btn{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .menu-nav{
+        flex-direction: column;
+    }
+    .kurse_im_umerblick_section{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .ihr_contain_text{
+        font-size: 16px;
+    }
+    .container{
+        max-width: 100%;
+    }
+    .menu_lei{
+        display: none;
+    }
+    body{
+        padding: 66px 0 0 0;
+    }
+    .header-btn-block .common-small-btn{
+        min-width: 335px;
+        border-radius: 5px;
+    }
+    .menu_bg_lines{
+        display: block;
+        position: absolute;
+        top: 16%;
+        left: -5%;
+        z-index: -1;
+        width: 113%;
+    }
+    .logo-hold.white_logo img{
+        filter: brightness(0) invert(1);
+    }
+    .nav-link  .menu-item{
+        display: flex;
+        align-items: center;
+    }
+    .nav-link  .menu-item .fa-angle-down{
+        margin-left: 10px;
+    }
+    .menu-nav ul li:hover .menu-item i{
+        transform: unset;
+    }
+    .menu-nav ul {
+        padding-left: 0px;
+    }
+    .menu-toggle-btn {
+        display: block;
+        cursor: pointer;
+        margin: 18px 0;
+    }
+    .menu-nav-block {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 100%;
+        background: rgb(156,82,139);
+        background: linear-gradient(180deg, rgba(156,82,139,1) 0%, rgba(123,61,109,1) 100%);
+        clip-path: circle(0px at 100% 0px);
+        transition: 0.5s ease all;
+        z-index: -1;
+        overflow-y: auto;
+        padding: 100px 0 60px;
+        visibility: hidden;
+    }
+    .menu-nav-block.open {
+        display: block;
+        clip-path: circle(100%);
+        visibility: visible;
+    }
+    .mobile-logo-shape img {
+        max-width: 110px;
+    }
+    .menu-nav ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+    }
+    .menu-nav ul li.active a, .menu-nav ul li:hover a, .menu-nav ul li .dropdown-submenu li > a:hover {
+        color: #fff;
+    }
+    .menu_lei{
+        display: none;
+    }
+    .menu_ser{
+        display: block;
+    }
+    .menu-nav ul li:hover a:hover {
+        border-color: #fff;
+    }
+
+    .menu-nav ul li a:after{
+        opacity: 0;
+        bottom: 3px;
+        background-color: var(--white-color);
+    }
+    .menu-nav ul li.has-submenu a.menu-item.menu-open:after {
+        transform: rotate(-135deg);
+        margin-top: 0px;
+    }
+    .has-submenu .dropdown-submenu {
+        position: static;
+        -webkit-transform: inherit !important;
+            -ms-transform: inherit !important;
+                transform: inherit !important;
+        display: none;
+        -webkit-transition: none;
+        -o-transition: none;
+        transition: none;
+        background: transparent;
+        -webkit-box-shadow: none;
+                box-shadow: none;
+    }
+    .menu-nav ul li .dropdown-submenu li > a {
+        color: #fff;
+        font-size: 20px;
+        padding: 5px 15px;
+        position: relative;
+    }   
+    .menu-nav ul li .dropdown-submenu li + li {
+        margin-top: 10px;
+    }
+    .menu-nav, .menu-nav ul {
+        height: auto;
+    }
+    .menu-nav ul li, .menu-nav ul li .dropdown-submenu li {
+        margin-right: 0;
+        padding: 0;
+    }
+    .menu-nav ul li a {
+        color: #fff;
+        font-size: 20px;
+        border-radius: 15px;
+        padding: 5px 15px;
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+    .menu-nav ul li + li {
+        margin-top: 12px;
+    }
+    .header-btn-block .common-small-btn{
+        padding: 10px 15px;
+    }
+    .header-btn-block .common-small-btn:hover:before{
+        background-color: var(--white-color);
+    }
+    .header-btn-block .common-small-btn:hover{
+        color: var(--primary-color) !important;
+    }
+
+    /*========================== Home page Css Start =======================*/
+    .course_for_sale {
+        padding: 15px 25px 15px 15px;
+    }
+    .course_for_sale p{
+        font-size: 16px;
+    }
+    .course_for_sale h2 {
+        font-size: 20px;
+    }
+    .course_for_sale a{
+        font-size: 18px;
+    }
+    .main_title_italic, .main_title {
+        font-size: 48px;
+    }
+    .section_subtext {
+        font-size: 22px;
+    }
+    .dots_images {
+        transform: scale(0.6);
+        left: -18%;
+        bottom: -42%;
+    }
+    .ihr_right_contain .ihr_right_image {
+        left: -19%;
+    }
+    .ihr_main_section:after {
+        transform: scale(0.5);
+        left: -15.8%;
+    }
+    .ihr_social_media{
+        display: none;
+    }
+
+    .common-small-btn{
+        font-size: 22px;
+    }
+    .ihr_studion_big_img img{
+        padding-left: 0px;
+    }
+    .ihr_studio_section {
+        padding-top: 80px;
+    }
+    .ihr_studio_contain .ihr_contain_text {
+        margin: 15px 0 20px;
+    }
+
+    .ihr_inner_chart_section{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .ihr_main_chart_section{
+        border-right: none;
+    }
+    .ihr_left_chart{
+        width: 100%;
+    }
+    .day_list_section .all_day_list{
+        margin-top: 30px;
+    }
+    .ihr_main_chart_section, .ihr_inner_chart_section .chart_title{
+        padding-right: 0px;
+    }
+    .day_list_section{
+        margin-top: 60px;
+    }
+    .ihr_main_chart_section{
+        position: relative;
+    }
+    .ihr_main_chart_section:after{
+        content:  ' ';
+        width: 100%;
+        height: 3px;
+        background-color: var(--light-parpal);
+        position: absolute;
+        bottom: -28px;
+    }
+    .all_day_list ul li p, .all_day_list ul li span, .chart_wrap_lines p{
+        font-size: 20px;
+    }
+    .chart_title{
+        font-size: 22px;
+    }
+    .ihr_inner_chart_section{
+        margin: 0 100px;
+    }
+    .ihr_chart_section .container:before {
+        right: -16.8%;
+    }
+    .ihr_chart_section .container:after {
+        left: -17.3%;
+    }
+
+    .leistungen_inner_section {
+        margin: 0 -15px;
+    }
+    .leistungen_inner_section .col-6{
+        padding: 0 15px;
+    }
+    .leistungen_all_items {
+        padding: 25px;
+    }
+    .leistungen_image {
+        width: 140px;
+        height: 140px;
+    }
+    .leistungen_contain {
+        width: calc(100% - 140px);
+    }
+    .common-small-btn{
+        padding: 8px 15px;
+    }
+    .leistungen_inner_section .col-6:nth-child(1), .leistungen_inner_section .col-6:nth-child(2) {
+        margin-bottom: 30px;
+    }
+    .leistungen_section .main_title {
+        margin-bottom: 30px;
+    }
+    .leistungen_section{
+        padding: 60px 0px;
+    }
+    .leistungen_contain p{
+        margin-top: 10px;
+    }
+
+    .bewertungen_inner_section{
+        margin: 0 -15px;
+    }
+    .bewertungen_col_first{
+        padding: 0 15px;
+    }
+    .bewertungen_section {
+        padding: 70px 0px;
+    }
+
+    .bewertungen_contain{
+        padding: 30px;
+    }
+    .bewerte_section {
+        padding-top: 50px;
+    }
+    .bewertungen_img {
+        width: 125px;
+        height: 125px;
+    }
+    .bewertungen_sec_img {
+        width: 165px;
+        height: 165px;
+    }
+
+    .online_circle_image{
+        width: 500px;
+        height: 500px;
+    }
+    .online_contain{
+        margin-left: 30px;
+    }
+    .jetzt_online_section{
+        padding: 80px 0px;
+    }
+    .jetzt_online_section{
+        padding: 70px 0px;
+    }
+    .mitgliedschaft_Jetzt_online {
+        padding: 70px 0px;
+    }
+    .sind_sie_section .ihr_contain_text{
+        max-width: 510px;
+    }
+    .sind_model_circle {
+        width: 450px;
+        height: 450px;
+        top: -37px;
+    }
+    .wie_fit_sind_section {
+        padding: 70px 0px;
+    }
+
+    .ernährung_title .main_title_italic{
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    .ernährung_img {
+        margin-bottom: 42px;
+    }
+    .faq_section:after{
+        left: -18%;
+        z-index: -1;
+    }
+    .faq_section:before{
+        right: -18%;
+        z-index: -1;
+    }
+    .ct_accordion_wrap{
+        padding: 0 30px 0;
+    }
+    .ct_accordion_info{
+        padding: 30px 0 40px;
+    }
+    .faq_section {
+        padding: 60px 0px;
+    }
+    .faq_inner_section {
+        padding: 0 65px;
+    }
+
+    .footer_right_section{
+        padding: 50px 15px 50px 50px;
+    }
+    .footer_abonniere_section{
+        right: 0px;
+    }
+    .footer_abonniere_inner_section {
+        padding-left: 0px;
+    }
+    .footer_abonniere_section{
+        width: 100%;
+        padding: 0 50px;
+    }
+    .social_media {
+        margin-bottom: 185px;
+    }
+
+    .footer_main_title_section .section_subtext{
+        font-size: 30px;
+    }
+    .call_popup_menu .common-small-btn{
+        padding: 8px 15px;
+        min-width: 270px;
+        height: 50px;
+    }
+    .tel_email_section {
+        margin-top: 30px;
+    }
+    .ernährung_img {
+        padding-left: 15px;
+    }
+    /*========================== Home page Css End =======================*/    
+
+    /*========================== kurse page Css Start =======================*/
+    .kurse_main_section {
+        padding: 60px 0;
+    }
+    .kurse_left_contain ul li a, .kurse_right_contain .table tr td span{
+        font-size: 18px;
+    }
+    .kurse_hart {
+        right: -16.5%;
+        top: 9%;
+        transform: scale(0.6);
+    }
+    .kurse_jetzt_probetraining_section .common-small-btn{
+        min-width: 325px;
+    }
+    .kurse_im_slider {
+        padding-top: 40px;
+    }
+    /*========================== kurse page Css Start =======================*/
+
+    /* Contact Page CSS Start*/
+    /*First Section Start*/
+    .kontakt_page {
+        padding: 170px 0 50px;
+    }
+
+    .kontakt_details_section{
+        padding: 45px 0 80px;
+    }
+    .phone_details {
+        margin-top: 40px;
+    }
+    .address_icon, .phone_img {
+        width: 8%;
+        margin-right: 10px;
+    }
+    .konkat_address p, .phone_det p a{
+        line-height: 1.3;
+    }
+    /*First Section End*/
+
+    /*Second Section Css Start*/
+    .ihr_chart_section .chart_wrap_lines{
+        align-items: center;
+    }
+    .ihr_chart_section .ihr_chart_lines {
+        width: 35px;
+    }
+    /*Second Section Css End*/
+    .name_telephone input, .email_message input {
+        height: 60px;
+        padding: 25px 30px;
+    }
+    .email_message textarea{
+        padding: 25px 30px;
+    }
+    .jetzt_probetraining_section .dotted_pattern_box {
+        right: -18.5%;
+        bottom: -5%;
+        transform: scale(0.7);
+    }
+
+    /* Contact Page CSS End*/
+
+
+
+
+    /* Studio Section CSS Start */
+    /* First Section Start */
+    .team_unser_team_section .team_unser_inner_section {
+        padding: 95px 0px 75px 100px;
+    }
+    .team_unser_inner_section .team_contain .team_quate p{
+        font-size: 25px;
+    }
+    .team_unser_inner_section .team_contain {
+        padding: 40px 60px 30px;
+    }
+    .team_unser_team_section .Left_dotted_box {
+        left: -14.5%;
+        transform: scale(0.7);
+    }
+    .team_unser_inner_section .team_model_imag {
+        width: 400px;
+        height: 400px;
+        top: 10%;
+        right: 30px;
+    }
+    .team_unser_inner_section .team_contain .team_quate {
+        max-width: 357px;
+    }
+    .unser_main_team_section:after {
+        bottom: 20%;
+        transform: scale(0.7);
+        right: -12.4%;
+    }
+    .einblicke_main_section .belie_section .belie_heading h2,
+    .unser_team_section .main_title{
+        font-size: 58px;
+    }
+    /* First Section End */
+    /* Studio Section CSS End */
+
+
+    /* leistungen Page CSS Start */
+    /* first Section Start */
+    .main_category_graident {
+        padding-top: 50px;
+    }
+    .personal_traing_img_section .personal_img {
+        width: 440px;
+        height: 440px;
+        top: -35%;
+    }
+    .perasonal_training_main {
+        padding: 30px 0 30px;
+    }
+    /* first Section End */
+
+    /* Third Section Start */
+    .was_wir_bieten_section {
+        padding: 70px 0 40px;
+    }
+    .trainiere_section {
+        padding: 40px 0 50px;
+    }
+    .eindrucke_aus_img img {
+        height: 655px;
+    }    
+    .eindrucke_aus_section:after{
+        display: none;
+    }
+    /* Third Section End */
+    /* leistungen Page CSS End */
+
+
+    /* Alle Section start */
+    .news_section {
+        padding-top: 50px;
+    }
+    .news_section .main_title h3,.alle_section .main_title h3,
+    .beitrag_section  .main_title h3,.alle_section .main_title h3,
+    .belie_section .belie_heading .main_title h2{
+        font-size: 60px;
+    }
+    /* News Section End */
+
+    /* Alle Section Start */
+    .alle_section .alle_header {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .alle_section .alle_pagination,.news_section .ihr_contain_text {
+        padding-top: 30px;
+    }
+    /* Alle Section End */
+
+    /* Beitrag Section Start */
+    .beitrag_section .b_right_info {
+        padding-top: 0px;
+        padding-left: 30px;
+    }
+    .beitrag_section .ihr_contain_text {
+        padding-top: 20px;
+        max-width: 95%;
+    }
+    .beitrag_section .b_left_img {
+        width: 70%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .beitrag_section {
+        padding: 50px 0;
+    }
+    .beitrag_section .b_left_img {
+        width: 50%;
+    }
+    .b_left_img img {
+        object-position: right;
+    }
+    /* Beitrag Section End */
+
+    /* Belie Section Start */
+    .last_first_box .belie_image {
+        height: 330px;
+    }
+    .belie_box_two {
+        padding: 15px;
+    }
+    .belie_box_two .belie_title h3{
+        padding: 15px 0px;
+        font-size: 22px;
+    }
+    .belie_box_two .bottom_title h4 {
+        font-size: 26px;
+    }
+    .belie_box_one .belie_box_img {
+        padding: 20px;
+    }
+    .dotted_box {
+        top: 35%;
+        width: 147px;
+        left: -100px;
+    }
+    .belie_box_three {
+        padding: 20px;
+    }
+    .belie_box_three .common-small-btn{
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    .belie_box_three .mail_title h4 {
+        padding-bottom: 20px;
+        font-size: 20px;
+    }
+    .belie_box_three .whitebtn{
+        height:45px;
+    }
+    .belie_last_twobox .last_first_box, .last_second_two {
+        padding: 20px;
+    }
+    .belie_last_twobox .last_second_two {
+        margin-top: 20px;
+        height: 100%;
+    }
+    .belie_mail_icon{
+        max-width: 30%;
+    }
+    .belie_section .section_subtext p{
+        font-size: 20px;
+    }
+    .unser_team_box {
+        padding: 25px;
+    }
+    .unser_team_box h3 {
+        font-size: 20px;
+    }
+    .member_name_and_hobbys ul li span{
+        font-size: 18px;
+    }
+
+    /* Belie Section End */
+    .mitgliedschaft_online_section:after {
+        left: -14.5%;
+        top: 37%;
+    }
+    .kurse_main_table:after {
+        transform: scale(0.4);
+        right: -7%;
+        bottom: -11%;
+    }
+
+    .menu-nav{
+        overflow-y: auto;
+        max-height: calc(100vh - 250px); 
+    }
+    .header-btn-block {
+        position: absolute;
+        bottom: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    /*========================== Home page Css End =======================*/    
+    .online_contain ul li{
+        font-size: 18px;
+    }
+    .sind_sie_section .ihr_contain_text{
+        max-width: 420px;
+    }
+    .footer_abonniere_section{
+        padding: 0 15px;
+    }
+    .footer_abonniere_all {
+        padding: 25px 20px;
+    }
+    /*========================== Home page Css End =======================*/    
+
+    /*========================== kurse page Css Start =======================*/
+    .kurse_inner_table{
+        padding: 40px;
+    }
+    .kurse_table{
+        padding: 30px;
+    }
+    .jetzt_d_flex .main_title {
+        font-size: 44px;
+    }
+    .kurse_jetzt_probetraining_section:before{
+        left: -12%;
+        top: -42%;
+    }
+
+    /*========================== kurse page Css End =======================*/
+
+    .mitgliedschaft_online_section:after {
+        left: -14.5%;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .belie_box_one .belie_box_img,
+    .einblicke_main_section .belie_mail_icon, 
+    .einblicke_main_section .belie_box_two, 
+    .einblicke_main_section .belie_mail_icon, 
+    .einblicke_main_section .belie_box_two, 
+    .news_page .belie_box_img, 
+    .news_page .belie_box_three, 
+    .news_page .belie_box_two,
+    .belie_last_twobox .last_first_box, 
+    .last_second_two{
+        padding: 15px;
+    }
+    .belie_section .section_subtext p{
+        margin-bottom: 30px;
+    }
+    .news_page .box_container{
+        padding: 0 15px !important;
+    }
+    .box_container{
+        max-width: 100%;
+        margin-left: 0px; 
+    }
+    .unser_main_team_section:before {
+        left: -21.5%;
+        top: -38%;
+        z-index: -1;
+    }
+    .ernährung_img .section_subtext{
+        text-transform: uppercase;
+        font-size: 24px;
+    }
+    .ernährung_section{
+        background: unset;
+    }
+    .ernährung_section:after{
+        content: none;
+    }
+    .ernahrung_media_new_title{
+        display: block;
+    }
+    .ernahrung_media_new_title .section_subtext{
+        margin-bottom: 40px;
+    }
+    .ernährung_section_img{
+        align-items: unset;
+    }
+    .ernährung_title .main_title_italic,.ernährung_title .section_subtext {
+        display: none;
+    }
+    .wie_fit_sind_section:after{
+        display: none;
+    }
+    .ernährung_img{
+        position: relative;
+    }
+    .ernährung_img:after{
+        content: url(../images/home/Header_dot-pattern.png);
+        position: absolute;
+        top: -25%;
+        right: -22%;
+        z-index: -1;
+        transform: scale(0.8);
+    }
+    .main_title_italic, .main_title {
+        font-size: 40px;
+    }
+    .section_subtext {
+        font-size: 22px;
+    }
+    .menu-nav ul li a {
+        font-size: 25px;
+    }
+
+
+    /*========================== Home page Css Start =======================*/    
+    .jetzt_online_contain {
+        padding-right: 0px;
+    }
+    .ihr_right_contain .ihr_right_image {
+        left: 11%;
+    }
+    .ihr_right_image {
+        width: 71%;
+    }
+    .course_for_sale{
+        background-color: unset;
+    }
+    .course_for_sale:before{
+        content: ' ';
+        width: 100%;
+        height: 100%;
+        background-color: var(--light-parpal);
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        opacity: 0.8;
+    }
+    .course_for_sale {
+        bottom: 9%;
+    }
+    .dots_images{
+        display: none;
+    }
+    .ihr_main_section:after {
+        transform: scale(0.4);
+        left: -19.8%;
+    }
+    .course_for_sale a {
+        font-size: 16px;
+    }
+    .course_for_sale p {
+        font-size: 15px;
+    }
+
+
+    .ihr_studion_big_img{
+        height: 400px;
+    }
+    .ihr_studion_big_img img{
+        object-fit: cover;
+    }
+    .ihr_studion_big_img {
+        height: 420px;
+    }
+    .ihr_studio_inner_section .ihr_contain_text{
+        max-width: 100%;
+    }
+    .ihr_studio_inner_section .common-small-btn{
+        min-width: 351px;
+    }
+    .ihr_studio_section{
+        padding-top: 70px;
+    }
+
+    .all_day_list ul li p, .all_day_list ul li span, .chart_wrap_lines p {
+        font-size: 18px;
+    }
+    .ihr_chart_section {
+        padding: 170px 0px 60px;
+    }
+    .ihr_inner_chart_section{
+        margin: 0 30px;
+    }
+
+    .leistungen_inner_section  .col-6{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .leistungen_contain, .leistungen_image{
+        width: 100%;
+    }
+    .leistungen_all_items{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        padding: 0px;
+        -webkit-box-shadow: 0px 0px 8px #00000029;
+        box-shadow: 0px 0px 8px #00000029;
+    }
+    .leistungen_image{
+        order: 1;
+        border-radius: unset;
+        height: 250px;
+        margin-bottom: 0px;
+    }
+    .leistungen_image img{
+        object-fit: cover;
+    }
+    .leistungen_contain{
+        order: 2;
+        padding: 30px;
+    }
+    .leistungen_contain p{
+        min-height: 100px;
+    }
+
+    /*slider*/
+    .leistungen_inner_section .owl-nav [class*=owl-]:hover,
+    .bewertungen_inner_section  .owl-nav [class*=owl-]:hover{
+        background: unset;
+    }
+    .leistungen_inner_section .owl-nav
+    .bewertungen_inner_section .owl-nav{
+        display: flex;
+        justify-content: center;
+    }
+    .leistungen_inner_section  .owl-nav .owl-prev,
+    .leistungen_inner_section  .owl-nav .owl-next,
+    .bewertungen_inner_section  .owl-nav .owl-prev,
+    .bewertungen_inner_section  .owl-nav .owl-next{
+        width: 40px;
+        height: 40px;
+        background-color: var(--white-color) !important;
+        border-radius: 50%;
+        -webkit-box-shadow: 0px 3px 6px #00000029;
+                box-shadow: 0px 3px 6px #00000029;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .leistungen_inner_section .owl-nav .owl-prev,
+    .bewertungen_inner_section .owl-nav .owl-prev{
+        margin-right: 30px;
+    }
+    .leistungen_inner_section .owl-nav .owl-next,
+    .bewertungen_inner_section .owl-nav .owl-next{
+        margin-left: 30px;
+    }
+    .leistungen_inner_section .owl-nav,
+    .bewertungen_inner_section .owl-nav{
+        margin-top: 0px;
+    }
+    .leistungen_section:after{
+        width: 100%;
+    }
+    .leistungen_section:before{
+        width: 100%;
+    }
+
+
+    .leistungen_inner_section{
+        margin: 0px;
+    }
+    .leistungen_inner_section .col-6{
+        padding: 0px;
+    }
+    .bewertungen_section {
+        padding: 60px 0px;
+    }
+
+    .bewertungen_img {
+        width: 125px;
+        height: 125px;
+    }
+    .bewertungen_col_first{
+        width: 100%;
+    }
+    .bewertungen_col_first:nth-child(1) .bewertungen_contain:after,
+    .bewertungen_col_first:nth-child(2) .bewertungen_contain:after,
+    .bewertungen_col_first:nth-child(3) .bewertungen_contain:after{
+        content: none;
+    }
+    .bewertungen_col_sec .ihr_contain_text{
+        height: unset;
+    }
+    .bewertungen_inner_section  .owl-stage-outer {
+        padding-bottom: 40px;
+        padding-top: 20px;
+    }
+    .bewertungen_contain{
+        -webkit-box-shadow: 0px 0px 8px #00000029;
+                box-shadow: 0px 0px 8px #00000029;
+    }
+    .bewerte_section {
+        padding-top: 15px;
+    }
+    .bewertungen_inner_section {
+        margin: 0;
+    }
+    .bewertungen_col_first{
+        padding: 0px 0px;
+        padding: 0 15px;
+    }
+    .bewertungen_inner_section{
+        padding-top: 30px;
+    }
+
+    .bewertungen_inner_section  .owl-nav{
+        margin-bottom: 10px;
+    }
+    .bewerte_section {
+        justify-content: space-between;
+    }
+    .online_circle_image{
+        width: 420px;
+        height: 420px;
+    }
+
+    .online_analyse_inner_section{
+        flex-wrap: wrap;
+    }
+    .online_main_img{
+        width: 100%;
+        order: 2;
+        text-align: center;
+    }
+    .online_circle_image{
+        margin: 0 auto;
+    }
+    .online_contain{
+        width: 100%;
+        order: 1;
+        padding-bottom: 0px;
+        margin-left: 0px;
+        margin-bottom: 30px;
+    }
+    .online_circle_image {
+        width: 500px;
+        height: 500px;
+    }
+    .jetzt_inner_section{
+        flex-direction: column;
+        align-items: center;
+    }
+    .jetzt_online_contain{
+        text-align: center;
+    }
+    .jetzt_online_contain .ihr_contain_text{
+        margin-bottom: 20px;
+    }
+    .jetzt_online_section:before{
+        background-color: var(--light-parpal);
+    }
+    .jetzt_online_section {
+        padding: 50px 0px;
+    }
+    .sind_model_circle{
+        position: unset;
+    }
+    .sind_sie_section{
+        display: flex;
+        flex-direction: column;
+        background-color: unset;
+        padding: 0px 0px 40px;
+        background: rgb(255,255,255);
+        background: linear-gradient(180deg, rgba(255,255,255,0) 29%, rgba(255,255,255,1) 29%, rgba(229,201,205,1) 29%);
+        border-radius: 30px;
+    }
+    .sind_contain, .ernahrung_media{
+        order: 2;
+    }
+    .sind_model_circle, .ernahrung_media_new{
+        order: 1;
+    }
+    .sind_model_circle{
+        margin: 0 auto;
+    }
+    .sind_contain{
+        margin-top: 50px;
+        text-align: center;
+        position: relative;
+    }
+    .sind_sie_section .ihr_contain_text{
+        margin: 20px auto;
+    }
+    .wie_fit_sind_section:after{
+        transform: scale(0.8);
+        left: -17.4%;
+    }
+    .wie_fit_title{
+        margin-bottom: 30px;
+    }
+    .wie_fit_sind_section {
+        padding: 60px 0px;
+    }
+    .ernährung_title .ihr_contain_text{
+        max-width: 100%;
+    }
+    .ernährung_img img{
+        width: 100%;
+        height: 450px;
+        object-fit: cover;
+    }
+
+    .faq_inner_section {
+        padding: 0px;
+    }
+    .faq_inner_section .section_subtext{
+        margin-bottom: 25px;
+    }
+    .ct_accordion_lable > img{
+        width: 25px;
+    }
+    .ct_accordion_lable{
+        padding: 20px 0px;
+    }
+    .faq_section {
+        padding: 50px 0px;
+    }
+
+    .footer_left_section, .footer_right_section{
+        width: 100%;
+    } 
+    .footer_inner_wrapper{
+        flex-wrap: wrap;
+    }
+    .footer_right_section{
+        order: 1;
+    }
+    .footer_left_section{
+        order: 2;
+        height: 450px;
+    }
+    .social_media {
+        margin-bottom: 30px;
+    }
+    .offnungszeiten_inner_section ul li{
+        flex-basis: 50%;
+    }
+    .last_footer{
+        display: none;
+    }
+    .footer_bg_img{
+        height: unset;
+    }
+    .footer_abonniere_section {
+        bottom: 440px;
+    }
+    .footer_abonniere_all .common-small-btn{
+        min-width: 230px;
+        font-size: 16px;
+    }
+    .footer_abonniere_all input {
+        background-position: 8% 50%;
+        height: 40px;
+    }
+    .footer_right_section{
+        padding: 50px 15px;
+    }
+
+    .footer_copy_right, .footer_copy_right .last_footer{
+        display: flex;
+    }
+    .footer_copy_right{
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 15px;
+        background-color: var(--white-color);
+    }
+    .footer_copy_right > p{
+        color: var(--light-parpal);
+    }
+
+    .pop_btn a{
+        font-size: 18px;
+    }
+    .call_popup_menu .common-small-btn{
+        padding: 8px 10px;
+        min-width: 240px;
+        height: 45px;
+        font-size: 17px;
+    }
+    .pop_btn a + a {
+        margin-left: 10px;
+    }
+    .tel_email_section {
+        margin-top: 25px;
+    }
+    .ja_close {
+        right: 10px;
+        top: 5px;
+    }
+    .ja_close svg{
+        width: 28px;
+    }
+    .ernährung_img {
+        padding-left: 0px;
+    }
+    .footer_abonniere_all{
+        flex-wrap: wrap;
+    }
+    .footer_abonniere_all > div, .footer_abonniere_all > p, .footer_abonniere_all > a{
+        width: 50%;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .footer_abonniere_all .email_box, .footer_abonniere_all .common-small-btn{
+        margin-top: 10px;
+    }
+    .footer_abonniere_all .email_box input {
+        height: 40px;
+        width: calc(100% - 15px);
+        margin-right: 15px;
+    }
+    .footer_abonniere_all .common-small-btn{
+        width: calc(50% - 15px);
+        margin-left: 15px;
+    }
+    .email_img{
+        left: 44%;
+        transform: translateX(-50%);
+        top: 12%;
+        width: calc(100% - 15px);
+    }
+    .email_img *{
+        vertical-align: middle;
+    }
+    .common-small-btn {
+        padding: 10px 15px;
+    }
+    /*========================== Home page Css End =======================*/
+
+    /*========================== kurse page Css Start =======================*/
+    .kurse_main_section {
+        padding: 50px 0;
+    }
+    .kurse_table {
+        padding: 20px;
+    }
+    .kurse_inner_table {
+        padding: 30px;
+    }
+    .jetzt_d_flex .main_title {
+        font-size: 36px;
+    }
+    .kurse_jetzt_probetraining_section .common-small-btn {
+        min-width: 300px;
+        font-size: 20px;
+    }
+    .kurse_jetzt_probetraining_section:before{
+        transform: scale(0.6);
+        left: -12%;
+        top: -35%;
+    }
+    .kurse_hart {
+        right: -20.5%;
+        top: 3%;
+        transform: scale(0.5);
+    }
+    .kurse_im_slider {
+        padding-top: 25px;
+    }
+    .kurse_jetzt_probetraining_section {
+        padding: 135px 0px 50px;
+    }
+    .we-product-img {
+        width: 120px;
+    }
+    .we-product-content{
+        width: calc(100% - 120px);
+    }
+    /*========================== kurse page Css End =======================*/
+
+    /* Contact Page CSS Start*/
+    /*First Section Start*/
+    .kontakt_page {
+        padding: 80px 0 50px;
+    }
+    .konkat_address p, .phone_det p a{
+        font-size: 20px;
+    }
+    .kontakt_page_title .section_subtext {
+        font-size: 20px;
+    }
+    .kontakt_details_section {
+        padding: 45px 0 50px;
+    }
+    .jetzt_probetraining_inner_section .form_group .round label:before{
+        width: 25px;
+        height: 25px;
+    }
+    .jetzt_probetraining_inner_section .form_group .round label:after{
+        top: 10.3px;
+        height: 9px;
+        width: 15px;
+        left: 4.3px
+    }
+    .jetzt_probetraining_inner_section .form_group .round label{
+        padding-left: 37px;
+    }
+    .jetzt_probetraining_inner_section .submit_btn{
+        flex-direction: column;
+    }
+    .jetzt_probetraining_inner_section .form_group .round label {
+        padding-left: 32px;
+    }
+    .jetzt_probetraining_inner_section .jam_form_group{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .form_group .round label{
+        max-width: 100%;
+    }
+    .jetzt_probetraining_section {
+        padding-bottom: 0px;
+    }
+    .jetzt_probetraining_section .kontact_details {
+        padding-top: 25px;
+        padding-bottom: 0;
+    }
+    .jetzt_probetraining_section .dotted_pattern_box {
+        display: none;
+    }
+    /*First Section End*/
+    /* Contact Page CSS End*/
+
+    /* Studio Page CSS Start  */
+    /* First Section Start */
+    .team_quate p:after,.team_quate p::before {
+        font-size: 40px;
+    }
+    .team_unser_team_section .Left_dotted_box {
+        bottom: 15%;
+    }
+    .moblie_view_div{
+        display: block;
+    }
+    .team_lines {
+        top: -8%;
+        background: #FFFFFF;
+        z-index: -5;
+        background: -webkit-linear-gradient(to bottom, #FFFFFF 0%, #b078a157 100%);
+        background: -moz-linear-gradient(to bottom, #FFFFFF 0%, #b078a157 100%);
+        background: linear-gradient(to bottom, #FFFFFF 0%, #b078a157 100%);
+    }
+    .team_treibstoff_section .team_inner_section h1{
+        font-family: sfpro_heavy;
+    }
+    .team_treibstoff_section .team_inner_section p{
+        font-family: sfpro_heavyitalic;
+    }
+    .team_unser_team_section .team_unser_inner_section {
+        padding: 0px 0px 25px 0;
+    }
+    .team_unser_team_section .team_contain{
+        order: 2;
+        margin-top: -13%;
+        width: 80%;
+        height: 400px;
+        padding: 50px;
+        display: flex;
+        text-align: center;
+        border-radius: 30px;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+    .team_quate p:before{
+        left: -4%;
+        top: -30%;
+    }
+    .team_unser_inner_section .team_contain .team_quate {
+        max-width: 100%;
+        margin-bottom: 0;
+    }
+    .team_unser_team_section:after,.team_contain span{
+        display: none;
+    }
+    .team_unser_inner_section .team_model_imag{
+        position: relative;
+        top: 70px;
+        right: 0;
+    }
+    .team_unser_team_section:before{
+        height: 65%;
+    }
+    .team_unser_inner_section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .moblie_view_div .team_contain_subtitle{
+        font-size: 25px;
+    }
+    .moblie_view_div .team_contain_title{
+        font-size: 35px;
+        color: var(--light-parpal);
+        font-family: sfpro_heavy;
+    }
+    .team_unser_inner_section .team_contain .team_quate p{
+        color: var(--primary-color);
+        font-size: 22px;
+    }
+    /* First Section End */
+    /* Second Section Start */
+    .unser_team_section .main_title {
+        margin-bottom: 10px;
+    }
+    .einblicke_main_section .belie_section .belie_heading h2,
+    .unser_team_section .main_title{
+        font-size: 40px;
+    }
+    .unser_team_box {
+        padding: 23px;
+    }
+    .member_name_and_hobbys ul li span {
+        font-size: 18px;
+    }
+    .unser_team_box .unser_people {
+        width: 150px;
+        height: 150px;
+    }
+    .member_name_and_hobbys ul li p {
+        min-width: 80px;
+    }
+    .unser_team_section .row .unser_col {
+        padding: 0 10px;
+    }
+    .unser_team_box p {
+        font-size: 17px;
+    }
+    .unser_team_margin {
+        margin-top: 0;
+    }
+    .unser_main_team_section:after{
+        display: none;
+    }
+    .unser_team_margin {
+        margin-top: 30px;
+    }
+    /* Second Section End */
+    /* Third Section Start */
+    .unser_team_box .unser_people {
+        width: 208px;
+        height: 208px;
+        border-radius: 50%;
+        overflow: hidden;
+        position: relative;
+    }
+    .einblicke_main_section .belie_section{
+        display: block;
+    }
+    .einblicke_main_section .belie_box_one,
+    .einblicke_main_section .belie_box_two,
+    .einblicke_main_section .belie_box_three,
+    .einblicke_main_section .belie_last_twobox{
+        max-width: 100%;
+    }
+    .einblicke_main_section .belie_box_one .belie_box_img{
+        padding-left: 20px;
+    }
+    .einblicke_main_section .last_second_two{
+        padding-right: 20px;
+    }
+    .einblicke_main_section .owl-carousel .owl-stage-outer{
+        padding-bottom: 10px;
+        padding-top: 20px;
+    }
+    .einblicke_main_section .owl-carousel .owl-stage{
+        display: flex;
+        align-items: flex-end;
+    }
+    .einblicke_main_section .belie_section {
+        padding: 0 15px;
+    }
+    .einblicke_main_section .belie_box_two .belie_title h3 {
+        font-size: 20px;
+    }
+    .einblicke_main_section .belie_box_two .belie_body p {
+        font-size: 16px;
+    }
+    .einblicke_main_section .box_shadow{
+        padding:15px; 
+    }
+    .einblicke_main_section .belie_box_one .belie_box_img{
+        padding:0px; 
+    }
+    .einblicke_main_section .last_first_box{
+        padding: 15px;
+    }
+    .einblicke_box_contain {
+        margin-bottom: 30px;
+    }
+    /* Third Section End */
+
+    /* Video Section Start */
+    .video_details{
+        width: 100%;
+    }
+    .vr_showroom_section:after {
+        right: -19%;
+        top: 10%;
+    }
+    .vr_showroom_section:before {
+        left: -19%;
+        bottom: -4%;
+    }
+    .video_details .play {
+        width: 65px;
+        height: 65px;
+    }
+    .play .fa-play {
+        font-size: 30px;
+    }
+    .video_details h4{
+        margin-bottom: 10px;
+        font-size: 35px;
+    }
+    .video_details p {
+        font-size: 27px;
+    }
+    .power_by{
+        bottom: 20%;
+    }
+    .uberzeuge_inner_section .section_subtext{
+        font-size: 25px;
+    }
+    .jetzt_main_section .main_title {
+        font-size: 33px;
+    }
+
+    /* Video Section End */
+    /* Studio Page CSS End  */
+
+    /* leistungen Page CSS Start */
+    /* first Section Start */
+    .main_category_section .category_lines {
+        top: 15%;    
+    }
+    .alle_section .dotted_img_one,
+    .alle_section .dotted_img_two {
+        display: none;
+    }
+    .alle_section .alle_row {
+        margin: 0 0px;
+    }
+    .alle_section .common-small-btn {
+        font-size: 20px;
+    }
+    .personal_traing_img_section .personal_img {
+        width: 470px;
+        height: 470px;
+    }
+    .main_category_inner_section .category_contrain{
+        display: flex;
+        flex-direction: column;
+    }
+    .main_category_inner_section .category_contrain h1{
+        font-family: sfpro_heavy;
+        order: 2;
+    }
+    .main_category_inner_section .category_contrain p{
+        order: 1;
+        font-family: sfpro_heavyitalic;
+    }
+    .personal_info_media .media_btn_show{
+        display: inline-block;
+    }
+    .personal_info_media .media_btn_hide{
+        display: none;
+    }
+    .main_category_section {
+        padding: 0px;
+    }
+    .personal_img{
+        position: relative;
+    }
+    .personal_trading_contain .ihr_contain_text{
+        max-width: 100%;
+    }
+    .perasonal_training_main{
+        background-color: unset;
+    }
+    .personal_info_media{
+        order: 2;
+        background-color: rgba(226, 194, 198, 1);
+        padding-top: 30px;
+    }
+    .personal_img_media{
+        order: 1;
+    }
+    .personal_traing_img_section .personal_img{
+        top: unset;
+    }
+    .personal_traing_img_section{
+        display: flex;
+        justify-content: center;
+    }
+    .personal_info_media{
+        margin-top: -80px;
+        position: relative;
+        z-index: 1;
+    }
+    /* first Section end */
+
+    /* Third Section Start */
+
+    .alle_section .owl-carousel .owl-dots{
+        margin-bottom: 30px;
+    }
+    .alle_margin {
+        margin-top: 0px;
+    }
+    .eindrucke_aus_img img {
+        height: 625px;
+    }
+    .trainiere_section {
+        padding: 35px 0 35px;
+    }
+    .trainiere_inner .main_title_italic {
+        font-size: 30px;
+    }
+    .trainiere_section h3{
+        display: inline-block;
+        font-size: 20px;
+    }
+    .was_wir_bieten_slider .owl-theme .owl-nav {
+        margin-top: 20px;
+    }
+    /* Third Section End */
+    /* leistungen Page CSS End */
+
+    /* News Section start Css */
+    .alle_section .owl-theme .owl-nav{
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .new_left_side .section_subtext h4{
+        font-family: sfpro_heavyitalic;
+    }
+    .news_section .ihr_contain_text {
+        padding-top: 5px;
+    }
+    .news_section .ihr_contain_text p+p {
+        padding-top: 15px;
+    }
+    .news_right_img{
+        height: 100%;
+    }
+    .news_right_img img{
+        width: 100%;
+        object-fit: cover;
+        object-position: top;
+    }
+    .new_left_side{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        max-width: 100%;
+        padding-bottom: 20px;
+    }
+    .news_section .main_title h3{
+        padding-top: 0px;
+    }
+    .news_right_img{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    /* News Section End Css */
+
+    /* Beitrag Section start Css */
+    .both_heading_mobile .section_subtext h4{
+        font-family: sfpro_heavyitalic;
+    }
+    .both_heading_mobile,.beitrag_btn{
+        display: inline-block;
+        font-weight: 600;
+    }
+    .beitrag_contain .accordian_title,.beitrag_contain .desktop,
+    .beitrag_paragraph{
+        display: none;
+    }
+    .both_heading{
+        padding-top: 20px;
+    }
+    .beitrag_section{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        padding: 0 15px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .beitrag_section .b_right_info{
+        padding: 0;
+    }
+    .beitrag_contain {
+        width: 100%;
+    }
+    .beitrag_section .b_left_img {
+        width: 100%;
+        height: 100%;
+    }
+    .b_left_img img {
+        margin-top: 25px;
+        width: 100%;
+        height: 480px;
+        object-position: top;
+    }
+    .beitrag_section .ihr_contain_text {
+        padding-bottom: 36px;
+        font-size: 16px;
+        max-width: 100%;
+    }
+    .b_right_info {
+        padding-top: 20px;
+    }
+    /* Beitrag Section End Css */
+
+    /* Alle Section start Css */
+    .alle_section .alle_row + .alle_row {
+        padding-top: 0px;
+    }
+    .alle_box {
+        max-width: 100%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        -webkit-box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 32%);
+                box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 32%);
+    }
+    .alle_box_img{
+        height: 300px;
+    }
+    .alle_box_img img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top;
+    }
+    /* Alle Section End Css */
+
+    .alle_section .alle_pagination{
+        display: none;
+    }
+    .kontakt_map_section {
+        height: 530px;
+        top: -7%;
+    }
+    .mitgliedschaft_online_section:after {
+        left: -18.5%;
+        top: 37%;
+    }
+    .kurse_main_table:after {
+        display: none;
+    }
+    .kurse_main_table {
+        padding-bottom: 60px;
+    }
+    .studio_page .box_container{
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    /* Belie Section start Css */
+    .belie_section{
+        display: none;
+    }
+    /* Belie Section end Css */
+    .unser_main_team_section:before{
+        top: -60%;
+    }
+    .main_title_italic, .main_title {
+        font-size: 34px;
+    }
+    .menu_bg_lines {
+        top: 6%;
+        left: -44%;
+        width: 162%;
+    }
+    .common-small-btn{
+        padding: 8px 15px;
+        min-width: 325px;
+    }
+    .ernährung_img:after{
+        top: -29%;
+        right: -28%;
+    }
+
+
+    /*========================== Home page Css Start =======================*/    
+    .ihr_right_layer{
+        display: none;
+    }
+    .ihr_main_section:after {
+        bottom: -15%;
+    }
+    .ihr_inner_section{
+        flex-wrap: wrap;
+    }
+    .ihr_left_contain, .ihr_right_contain{
+        width: 100%;
+    }
+    .ihr_right_image {
+        width: 48%;
+    }
+    .ihr_left_contain {
+        margin-top: 6%;
+    }
+    .ihr_inner_section .section_subtext {
+        max-width: 350px
+    }
+    .ihr_studio_section{
+        padding-top: 60px;
+    }
+
+    .ihr_studio_contain{
+        padding-bottom: 40px;
+    }
+    .ihr_studion_big_img {
+        height: 735px;
+    }
+    .ihr_studion_big_img img{
+        position: unset;
+        height: 100%;
+    }
+
+
+    .index_page .ihr_chart_section{
+        display: none;
+    }
+    .ihr_jetzt_section{
+        display: block;
+        padding: 45px 0px;
+        background-color: var(--light-parpal);
+    }
+    .ihr_jetzt_inner_section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .ihr_jetzt_inner_section .section_subtext{
+        color: var(--white-color);
+    }
+    .ihr_jetzt_inner_section .common-small-btn{
+        margin-top: 15px;
+    }
+    .leistungen_contain{
+        padding: 20px;
+    }
+    /*slider*/
+    .leistungen_inner_section .owl-nav .owl-prev, .leistungen_inner_section .owl-nav .owl-next,
+    .bewertungen_inner_section  .owl-nav .owl-prev, .bewertungen_inner_section .owl-nav .owl-next{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0%;
+        margin: 0px;
+    }
+    .leistungen_inner_section .owl-nav .owl-next,
+    .bewertungen_inner_section .owl-nav .owl-next{
+        left: unset;
+        right: 0%;
+    }
+    .bewertungen_contain .ihr_contain_text{
+        max-width: 350px;
+    }
+    .bewertungen_contain > .ihr_contain_text{
+        display: none;
+    }
+    .ihr_contain_text.i_d_none{
+        display: block;
+    }
+
+    .leistungen_all_items{
+        padding: 0 15px;
+        background-color: unset;
+    }
+    .leistungen_contain{
+        background-color: var(--white-color);
+    }
+    .bewertungen_inner_section .owl-stage-outer{
+        padding-bottom: 20px;
+    }
+    .leistungen_contain p{
+        max-width: 100%;
+    }
+    .bewerte_section .common-small-btn{
+        min-width: 290px;
+        margin-left: 15px;
+    }
+    .jetzt_online_section {
+        padding: 30px 0px;
+    }
+    .jetzt_online_contain .ihr_contain_text{
+        font-size: 16px;
+    }
+
+    .mitgliedschaft_online_inner_section {
+        padding: 70px 0px;
+    }
+
+    .mitgliedschaft_Jetzt_inner_online{
+        flex-direction: column;
+    }
+    .mitgliedschaft_Jetzt_inner_online .common-small-btn{
+        margin-top: 20px;
+    }
+    .mitgliedschaft_Jetzt_online {
+        padding: 50px 0px;
+    }
+    .wie_fit_sind_section {
+        padding: 50px 0px;
+    }
+    .ernährung_img img{
+        height: 400px;
+    }
+    .faq_section:before {
+        right: -25%;
+    }
+    .faq_section:adter {
+        left: -25%;
+    }
+
+    .footer_abonniere_all{
+        flex-direction: column;
+    }
+    .footer_abonniere_all * + * {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .footer_abonniere_section {
+        bottom: 335px;
+    }
+    .footer_bg_img{
+        height: 100%;
+    }
+    .kontakt_left, .offnungszeiten_left, .social_left {
+        min-width: 200px;
+    }
+    .kotakt_detials, .offnungszeiten_inner_section, .social_all_icon {
+        width: calc(100% - 200px);
+    }
+    .offnungszeiten_inner_section ul li{
+        flex-basis: 100%;
+    }
+    .footer_main_title_section .section_subtext{
+        font-size: 22px;
+    }
+    .ihr_call{
+        display: none;
+    }
+    .email_img{
+        top: 7%;
+    }
+    .footer_abonniere_all .email_box input{
+        margin-right: 0px;
+    }
+    .footer_abonniere_all .common-small-btn{
+        margin-left: 0px;
+    }
+    .footer_abonniere_all > div, .footer_abonniere_all > p, .footer_abonniere_all > a{
+        width: unset;
+    }
+    .footer_abonniere_all .common-small-btn, .footer_abonniere_all .email_box input{
+        width: unset;
+    }
+    .footer_abonniere_all .common-small-btn{
+        min-width: 300px;
+    }
+    /*========================== Home page Css End =======================*/    
+
+    /*========================== kurse page Css Start =======================*/
+    .kurse_im_slider {
+        padding-top: 20px;
+    }
+    .jetzt_probetraining_inner_section, .jetzt_d_flex{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .jetzt_d_flex .common-small-btn{
+        margin-top: 35px;
+    }
+    .jetzt_d_flex .main_title{
+        text-align: center;
+        font-size: 30px;
+    }
+    .jetzt_d_flex .common-small-btn{
+        background-color: var(--primary-color);
+    }
+    .kurse_main_table:after{
+        display: none;
+    }
+    .kurse_main_table {
+        padding-bottom: 60px;
+    }
+
+    .kurse_right_contain tr td p {
+        font-size: 14px;
+    }
+    .kurse_table {
+        padding: 10px;
+    }
+    .kurse_left_contain {
+        width: 18%;
+    }
+    .kurse_right_contain {
+        width: calc(100% - 18%);
+    }
+    .kurse_left_contain ul li a, .kurse_right_contain .table tr td span {
+        font-size: 16px;
+    }
+    .kurse_main_section {
+        padding: 50px 0 40px;
+    }
+    /*========================== kurse page Css End =======================*/
+
+    /* Contact Page CSS Start*/
+    /*First Section Start*/
+    .kontakt_lines{
+        top: -43%;
+    }
+    .kontakt_page {
+        padding: 100px 0 0px;
+    }
+    .ihr_inner_chart_section {
+        margin: 0 0px;
+    }
+    .kontakt_map_section_mobile{
+        display: block;
+        margin-top: 30px;
+    }
+    .kontakt_map_section{
+        display: none;
+    }
+    .kontakt_details_section{
+        margin-top: -10px;
+    }
+    .address_icon, .phone_img {
+        width: 72px;
+    }
+    .kontakt_page {
+        padding: 50px 0 0px;
+    }
+    .kontakt_details_section .ihr_chart_section{
+        padding-top: 50px;
+    }
+    .konkat_address p, .phone_det p a{
+        width: calc(100% - 72px);
+    }
+    /*First Section End*/
+
+    /*Second Section CSS Start*/
+    .kontakt_details_section .chart_wrap_lines{
+        align-items: center;
+    }
+    .kontakt_details_section .ihr_inner_chart_section{
+        padding: 20px;
+    }
+    .kontakt_details_section .ihr_chart_lines{
+        width: 34px;
+    }
+    .kontakt_details_section .chart_wrap_lines + .chart_wrap_lines {
+        margin-left: 0px;
+    }
+    .ihr_chart_section .main_drop_title span {
+        margin-left: 20px;
+    }
+    /*Second Section CSS End*/
+    .jetzt_probetraining_section .name_telephone{
+        flex-direction: column;
+    }
+    .jetzt_probetraining_section .email_message * {
+        margin-top: 15px;
+    }
+    .jetzt_probetraining_section .name_telephone input, .email_message input{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .jetzt_probetraining_section .name_telephone input + input {
+        margin-left: 0px;
+    }
+    .ihr_chart_section .day_list_section .chart_title,
+    .ihr_chart_section .chart_inner_title,
+    .ihr_chart_section .chart_inner_title .dropdown .main_drop_title p{
+        color: var(--primary-color);
+    }
+    .ihr_chart_section .chart_inner_title,
+    .ihr_chart_section .chart_inner_title .dropdown .main_drop_title p{
+        font-family: sfpro_heavy;
+    }
+    /* Contact Page CSS End*/
+
+    /* Studio Page CSS Start */
+    /* First Section Start */
+    .einblicke_main_section .box_container_slider .owl-nav .owl-next{
+        margin-left: 0px;
+    }
+    .belie_box_two .belie_body p {
+        height: 120px;
+    }
+    .team_lines {
+        top: 0%;
+    }
+    .team_unser_team_section:before {
+        height: 68%;
+    }
+    .team_unser_team_section .team_contain {
+        margin-top: -20%;
+        height: 420px;
+        width: 100%;
+    }
+    .team_overlay{
+        background: unset;
+    }
+    .team_treibstoff_section {
+        padding: 60px 0 0px;
+    }
+    /* First Section End */
+    /* Second Section Start */
+    .unser_team_section .owl-theme .owl-nav {
+        margin-top: 30px;
+    }
+    .unser_team_box{
+        box-shadow: 0px 0px 7px 0px #b3b3b3;
+    }
+    .einblicke_main_section .owl-theme .owl-nav {
+        margin-top: 15px;
+    }
+    .unser_main_team_section {
+        padding: 40px 0 40px;
+    }
+    .unser_main_team_section .owl-stage-outer{
+        padding-top: 20px;
+        padding-bottom: 5px;
+    }
+    .unser_team_margin {
+        margin-top: 0px;
+    }
+    .unser_team_box {
+        padding: 35px;
+    }
+    .unser_team_section .owl-theme .owl-nav {
+        margin-top: 15px;
+    }
+    /* Second Section End */
+    /* Video Section Start */
+    .vr_showroom_inner_section .section_subtext{
+        font-family: sfpro_heavyitalic;
+        color:var(--extra-pink);
+        margin-bottom: 35px;
+        line-height: 1.2;
+    }
+    .vr_showroom_section .vr_showroom_inner_section .main_title{
+        font-family:sfpro_heavy; 
+        font-size: 45px;
+        color: var(--light-parpal);
+    }
+    .vr_showroom_section {
+        padding: 50px 0px;
+    }
+    .video_bm {
+        height: 530px;
+    }
+    .vr_showroom_section:after,
+    .vr_showroom_section:before,
+    .uberzeuge_inner_section .uberzeuge_section_show_btn{
+        display: none;
+    }
+    .uberzeuge_section{
+        overflow: hidden;
+    }
+    .uberzeuge_section_hide_btn,
+    .uberzeuge_section .video_bottom_img{    
+        display: block;
+    }
+    .uberzeuge_section{
+        background-color: #9C528B;
+        position: relative;
+        z-index: 1;
+    }
+    .uberzeuge_section .video_bottom_img{    
+        position: absolute;
+        z-index: -1;
+        right: -14%;
+        top: 15%;
+    }
+    .uberzeuge_inner_section .section_subtext{
+        color: var(--primary-color);
+
+    }
+    .uberzeuge_section .uberzeuge_inner_section,
+    .uberzeuge_section .jetzt_main_section{
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .uberzeuge_inner_section .jetzt_main_section h2{
+        padding-top: 5px;
+        font-family: sfpro_heavyitalic;
+        padding-bottom: 20px;
+    }
+    .einblicke_main_section{
+        background: rgb(255,255,255);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(40%, rgba(255,255,255,1)), to(rgba(78,44,98,1)));
+        background: -o-linear-gradient(top, rgba(255,255,255,1) 40%, rgba(78,44,98,1) 100%);
+        background: linear-gradient(180deg, rgba(255,255,255,1) 40%, rgba(78,44,98,1) 100%);
+    }
+    /* Video Section End */
+
+    /* Studio Page CSS End */
+
+    /* leistungen Page CSS Start */
+    /* Second section Start  */
+    .main_category_section .category_lines{
+        top: -3%;
+    }
+    .main_category_section .category_lines img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: left;
+    }
+    .was_wir_bieten_section .service_span{
+        display: block;
+        text-transform: uppercase;
+        font-family: sfpro_heavyitalic;
+        color: var(--primary-color);
+    }
+    .was_wir_bieten_slider h2{
+        color: var(--light-parpal);
+    }
+    /* Second section End  */
+
+    /* Third Section Start */
+    .was_wir_contains .more_text_height p{
+        font-size: 17px;
+    }
+    .eindrucke_aus_section .eindrucke_h2_hide,
+    .eindrucke_aus_contain .common-small-btn{
+        display: none;
+    }
+    .eindrucke_aus_img img {
+        height: 415px;
+        object-position: top;
+    }
+    .eindrucke_aus_img_section {
+        height: 435px;
+        padding-top: 20px;
+    }
+    .eindrucke_aus_contain .more_text_height {
+        max-width: 100%
+    }
+    .eindrucke_aus_section .eindrucke_h2_show{
+        display: block;
+    }
+    .eindrucke_aus_contain .personal_traning {
+        display: block;
+        font-family: sfpro_heavyitalic;
+        color: var(--light-parpal);
+        text-transform: uppercase;
+    }
+    .trainiere_section{
+        text-align: center;
+        background: #9C528B;
+        background: -webkit-linear-gradient(to bottom, #9C528B 0%, #4B2360 100%);
+        background: -moz-linear-gradient(to bottom, #9C528B 0%, #4B2360 100%);
+        background: linear-gradient(to bottom, #9C528B 0%, #4B2360 100%);
+    }
+    .trainiere_section .trainiere_section_h3_hide,
+    .trainiere_inner .trainiere_inner_h4_hide,
+    .trainiere_inner .trainiere_inner_a_hide{
+        display: none;
+    }
+    .trainiere_section .trainiere_section_h3_show {
+        font-family: sfpro_heavyitalic;
+        display: block;
+    }
+    .trainiere_section .trainiere_section_h4_show {
+        font-family: sfpro_heavy;
+        padding:5px 0;
+        display: block;
+        font-size: 17px;
+        color: var(--extra-pink);
+    }
+    .trainiere_section .trainiere_inner_a_show {
+        display: inline-block;
+        margin-top: 10px;
+        min-width: 50%;
+    }
+    .eindrucke_aus_contain .main_title {
+        margin-bottom: 10px;
+    }
+
+    .was_wir_bieten_section .owl-theme .owl-nav .owl-next {
+        margin-left: 20px;
+    }
+    .was_wir_bieten_section .owl-theme .owl-nav .owl-prev {
+        margin-right: 20px;
+    }
+    /* Third Section End */
+    /* leistungen Page CSS End */
+
+    /* Alle Section Start */
+    .news_section .main_title h3,
+    .alle_section .main_title h3,
+    .beitrag_section .main_title h3,
+    .alle_section .main_title h3,
+    .belie_section .belie_heading .main_title h2 {
+        font-size: 45px;
+    }
+    .alle_section .alle_body {
+        padding: 20px 33px 33px 33px;
+    }
+    .alle_section .owl-carousel .owl-dots {
+        margin-bottom: 50px;
+    }
+    .alle_section .alle_pagination{
+        display: none;
+    }
+    .alle_section .alle_header {
+        padding-bottom: 20px;
+        padding-top: 80px;
+    }
+    /* Alle Section End */
+
+    /* News Section Start */
+
+    .news_section{        
+        padding-bottom: 50px;
+    }
+    .news_section .background_line {
+        top: 65%;
+        left: 0;
+    }    
+    .news_section {
+        padding-top: 70px;
+    }
+    .new_left_side{
+        max-width: 100%;
+    }
+    .dropdown-menu{
+        left: -13px;
+    }
+    .jetzt_probetraining_section {
+        padding-bottom: 30px;
+    }
+    .kontakt_details_section .ihr_chart_section .container:after{
+        transform: scale(0.7);
+        left: -33.5%;
+    }
+    .alle_cloumn{
+        position: relative;
+    }
+    .alle_section .owl-carousel .owl-nav button.owl-next{
+        position: absolute;
+        top: 33%;
+        right: -13px;
+    }
+    .alle_section .owl-carousel .owl-nav button.owl-prev{
+        position:absolute;
+        top: 33%;
+        left: -13px;
+    }
+    .alle_section .row .alle_cloumn {
+        padding: 0 10px;
+    }
+    .alle_section .owl-theme .owl-nav {
+        margin-bottom: 0px;
+    }
+    .alle_section .owl-carousel .owl-nav button.owl-next,
+    .alle_section .owl-carousel .owl-nav button.owl-prev{
+        background: var(--white-color);
+    }
+    /* News Section End */
+
+
+    .email_img{
+        margin-top: 0px;
+    }
+    .email_img *{
+        vertical-align: middle;
+    }
+    .email_img > span{
+        margin-left: 15px;
+    }
+    .email_img{
+        left: 50%;
+    }
+    .leistungen_section .main_title{
+        text-align: center;
+    }
+
+    .mitgliedschaft_online_section:after {
+        left: -23.5%;
+        top: 31%;
+    }
+    .kurse_main_table {
+        padding-bottom: 50px;
+    }
+}
+
+
+@media screen and (max-width: 575px) {
+    .box_item, .einblicke_img, .img_hover{
+        width: 100%;
+    }
+    .unser_main_team_section:before {
+        top: -19%;
+        left: -22.5%;
+    }
+    .kurse_im_item .common-small-btn{
+        font-size: 18px;
+    }
+    .kurse_inner_table{
+        margin: 0 -15px;
+    }
+    .kurse_main_table:before{
+        display: none;
+    }
+    .mitgliedschaft_online_inner_section .main_title br{
+        display: none;
+    }
+    .leistungen_all_items{
+        -webkit-box-shadow: 0px 0px 8px #00000029;
+        box-shadow: 0px 0px 8px #00000029;
+    }
+    .course_for_sale a{
+        display: inline-block;
+    }
+    .course_for_sale a:after{
+        height: 2px;
+        bottom: -2px;
+    }
+    .ihr_left_contain {
+        margin-top: 116px;
+    }
+    .footer_abonniere_all > div > img{
+        width: 30px;
+    }
+    .bewertungen_section .common-small-btn{
+        min-width: 100%;
+    }
+
+    .ihr_overlay{
+        display: none;
+    }
+    .sweat_now_section .main_title_italic, .sweat_now_section .main_title{
+        opacity: 0.77;
+    }
+    .leistungen_inner_section .col-6:nth-child(1), 
+    .leistungen_inner_section .col-6:nth-child(2){
+        margin-bottom: 20px;
+    }
+    .leistungen_images_section{
+        margin-bottom: -185px;
+    }
+    .leistungen_contain p {
+        min-height: unset;
+        margin-bottom: 25px;
+    }
+    .leistungen_contain .section_subtext {
+        text-align: center;
+    }
+    .ernährung_img {
+        margin-bottom: 15px;
+    }
+    .bewertungen_section .section_subtext {
+        color: var(--base-parpal);
+        font-style: italic;
+    }
+    .wie_fit_sind_inner_section .section_subtext  {
+        font-style: italic;
+    }
+    .ihr_studio_contain{
+        padding: 0px 0 20px;
+    }
+    .faq_inner_section .section_subtext{
+        color: var(--base-parpal);
+    }
+    .wie_fit_sind_inner_section .section_subtext {
+        text-transform: capitalize;
+    }
+    .sweat_now_section{
+        padding: 45px 0px;
+    }
+    .bewertungen_section{
+        background: linear-gradient(0deg, rgba(255,255,255,0) 20%, rgba(226,194,198,0.8) 100%);
+    }
+    .ihr_studio_contain > .section_subtext, 
+    .ernahrung_media_new_title .section_subtext, 
+    .faq_inner_section .section_subtext,
+    .footer_main_title_section .section_subtext {
+        font-style: italic;
+    }
+    .footer_main_title_section .section_subtext, 
+    .footer_main_title_section .main_title_italic, 
+    .sweat_now_section .main_title,
+    .footer_main_title_section .main_title {
+        text-align: center;
+    }  
+    .footer_main_title_section .main_title{
+        margin-bottom: 30px;
+    }
+    .sweat_now_section .main_title{
+        max-width: 230px;
+        margin: 0 auto;
+        line-height: 1.4;
+        font-size: 32px;
+    }
+    .ihr_contain_text, .leistungen_contain p{
+        color: var(--primary-color);
+    }
+    .footer_tel p, .footer_mail p{
+        display: none;
+    }
+    .menu-nav ul li .dropdown-submenu li > a{
+        text-transform: lowercase;
+    }
+    header{
+        padding: 0px;
+    }
+    .logo-hold img{
+        max-width: 123px;
+    }
+    .header-btn-block{
+        padding: 0 15px;
+    }
+    .faq_section:before, .faq_section:after{
+        display: none;
+    }
+    .ernährung_img:after {
+        top: -30%;
+        right: -37%;
+        transform: scale(0.7);
+    }
+    .mitgliedschaft_online_section .section_subtext  {
+        font-style: italic;
+    }
+    .mitgliedschaft_Jetzt_inner_online .section_subtext{
+        font-style: italic;
+        color: var(--light-parpal);
+    }
+    .jetzt_online_contain .section_subtext.block_jam{
+        font-style: italic;
+    }
+    .block_jam{
+        display: block;
+    }
+    .none_jam{
+        display: none;
+    }
+    .ihr_main_section .jam_hover.none_jam{
+        display: none;
+    }
+    .common-small-btn{
+        min-width: 100%;
+        font-size: 20px;
+    }
+    .jetzt_online_contain .ihr_contain_text.block_jam{
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;  
+        overflow: hidden;
+        line-height: 1.4;
+    }
+    body{
+        padding: 60px 0 0 0;
+    }
+    html, body {
+        font-size: 16px;
+    }
+    .menu-toggle-btn img{
+        max-width: 30px;
+    }
+    .d-sm-none {
+        display: none!important;
+    }
+    .online_main_img{
+        margin-top: -65px;
+    }
+    .section_subtext{
+        font-size: 18px;
+    }
+
+    .menu_bg_lines {
+        top: 13%;
+        left: -60%;
+        width: 205%;
+    }
+    .menu-nav ul{
+        padding-left: 20px;
+        padding-right: 20px; 
+        align-items: flex-start; 
+        width: 100%;
+    }
+    .header-btn-block .common-small-btn, .header-btn-block{
+        min-width: 100%;
+    }   
+    .dropdown-submenu ul{
+        padding-left: 50px;
+    }
+    /*========================== Home page Css Start =======================*/    
+    .ihr_right_contain{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ihr_right_contain .ihr_right_image{
+        width: 61%;
+        padding-top: 0px;
+    }
+    .main_title_italic, .main_title {
+        /*font-size: 38px;*/
+    }
+    .ihr_main_section:after{
+        display: none;
+    }
+    .course_for_sale:after{
+        content: url(../images/home/Chart_pattern2.png);
+        position: absolute;
+        left: -31%;
+        top: -67%;
+        transform: scale(0.4);
+        z-index: -1;
+    }
+    .ihr_right_contain .ihr_right_image {
+        width: 65%;
+        padding-top: 0px;
+        left: 23%;
+    }
+    .course_for_sale {
+        padding: 20px 40px 20px 20px;
+    }
+    .ihr_right_contain{
+        margin-top: -50px;
+    }
+    .course_for_sale {
+        bottom: 18%;
+    }
+    .header_main_section_banner{
+        display: block;
+        position: absolute;
+        bottom: 20px;
+        width: 100%;
+        padding: 0 15px;
+    }
+    .header_main_section_banner .common-small-btn{
+        min-width: 100%;
+        width: 100%;
+        font-size: 22px;
+    }
+    .ihr_studio_section{
+        padding-top: 50px;
+    }
+    .ihr_studion_big_img {
+        height: 500px;
+    }
+    .ihr_main_section:before{
+        left: -79.8%;
+        top: -15.5%;
+    }
+    .ihr_studio_inner_section .common-small-btn{
+        min-width: 100%;
+    }
+    .ihr_jetzt_inner_section .common-small-btn{
+        min-width: 100%;
+        font-size: 20px;
+    }
+    .leistungen_section {
+        padding: 50px 0px;
+    }
+
+    .bewertungen_img {
+        width: 100px;
+        height: 100px;
+    }
+    .bewertungen_inner_section {
+        padding-top: 10px;
+    }
+    .bewertungen_section .section_subtext, .bewertungen_section .main_title{
+        text-align: center;
+    }
+    .bewerte_section{
+        display: flex;
+        flex-direction: column;
+    }
+    .bewerte_section .section_subtext{
+        display: none;
+    }
+    .bewerte_section .common-small-btn{
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .bewertungen_inner_section .owl-stage-outer{
+        padding-bottom: 20px;
+    }
+
+    .online_contain .common-small-btn{
+        display: none;
+    }
+    .online_main_img .online_circle_image .common-small-btn{
+        display: block;
+        position: absolute;
+        bottom: 20%;
+        left: 50%;
+        transform: translateX(-50%);
+        min-width: 100%;
+        padding: 8px 15px;
+        font-size: 18px;
+        min-width: 450px;
+    }
+    .online_analyse_inner_section{
+        margin-bottom: -50px;
+    }
+    .online_main_img:after{
+        content: ' ';
+        width: 95%;
+        height: 95%;
+        background-color: var(--extra-pink);
+        position: absolute;
+        bottom: 0%;
+        right: -12%;
+        border-radius: 50%;
+        z-index: -1;
+    }
+    .online_circle_image{
+        width: unset;
+        height: unset;
+        background-color: unset;
+    }
+    .online_contain{
+        margin-bottom: 15px;
+    }
+    .bewertungen_section{
+        padding: 160px 0px 40px;
+    }
+
+    .jetzt_online_section div{
+        width: 100%;
+    }
+    .sind_model_circle{
+        width: 350px;
+        height: 350px;
+    }
+    .sind_contain {
+        margin-top: 30px;
+        padding: 0 15px;
+    }
+    .sind_contain{
+        margin-top: 20px;
+    }
+    .sind_sie_section{
+        padding-bottom: 25px;
+    }
+    .sind_sie_section .ihr_contain_text{
+        margin: 15px auto;
+    }
+    .wie_fit_sind_section {
+        padding: 40px 0px;
+    }
+
+    .we-product-img {
+        width: 70px;
+    }
+    .we-product-content{
+        width: calc(100% - 70px);
+    }
+    .fitness-blog--product-detail .common-small-btn{
+    }
+    .index_page .fitness-blog--inner .product-name h4 {
+        font-size: 14px;
+    }
+    .index_page .we-price-desc p {
+        font-size: 12px;
+    }
+    .index_page .best-seller-tag {
+        height: 34px;
+        max-width: 125px;
+        font-size: 14px;
+    }
+    .index_page .ernährung_inner_section .common-small-btn{
+        font-size: 12px;
+        min-width: 120px;
+    }
+    .index_page .best-seller-block  img.tag-img {
+        position: absolute;
+        right: -96px;
+        top: 18px;
+        width: 110px;
+    }
+    .index_page .we-product-block{
+        max-width: 280px;
+    }
+    .index_page .we-product-content{
+        width: calc(100% - 100px)
+    }
+    .we-product-img{
+        width: 100px;
+    }
+    .faq_section {
+        padding: 40px 0px;
+    }
+    .faq_section:before {
+        right: -35%;
+    }
+    .faq_section:after {
+        left: -35%;
+    }
+    .ct_accordion_lable > img {
+        width: 20px;
+    }
+    .ct_accordion_wrap{
+        padding: 0 20px 0;
+    }
+    .ct_accordion_info{
+        padding: 20px 0 30px;
+    }
+    .common-section-desc p{
+        font-size: 16px;
+    }
+    .ct_accordion_lable h3{
+        font-size: 18px;
+    }
+
+    .footer_right_section {
+        padding: 40px 15px;
+    }
+    .kontakt_left, .offnungszeiten_left, .social_left {
+        min-width: 165px;
+    }
+    .kotakt_detials, .offnungszeiten_inner_section, .social_all_icon {
+        width: calc(100% - 165px);
+    }
+    .footer_text, .social_text{
+        font-size: 16px;
+    }
+    .footer_right_section .main_title_italic {
+        margin-bottom: 25px;
+    }
+    .footer_abonniere_section {
+        bottom: 310px;
+    }
+
+    .kurse_im_slider {
+        padding-top: 20px;
+    }
+    .kurse_jetzt_probetraining_section:before {
+        display: none;
+    }
+    .kurse_hart{
+        right: -35.5%;
+        top: 25%;
+    }
+    .jetzt_d_flex .main_title{
+        font-size: 20px;
+        max-width: 300px;
+        line-height: 1.4;
+    }
+    .kurse_main_table {
+        padding-bottom: 40px;
+    }
+
+    .kurse_im_slider .owl-nav .owl-prev{
+        position: absolute;
+        top: 43%;
+        transform: translateY(-50%);
+        left: -1.5%;
+        z-index: 2;
+        background-color: white !important;
+    }
+    .kurse_im_slider .owl-nav .owl-next{
+        position: absolute;
+        top: 43%;
+        transform: translateY(-50%);
+        right: -1.5%;
+        z-index: 2;
+        background-color: white !important;
+    }
+    .kurse_im_item {
+        margin: 0 15px;
+    }
+    .kurse_im_slider .owl-nav .owl-prev{
+        left: -2%;
+        width: 35px;
+        height: 35px;
+    }
+    .kurse_im_slider .owl-nav .owl-next{
+        right: -2%;
+        width: 35px;
+        height: 35px;
+    }
+
+    .kurse_inner_table:before{
+        display: none;
+    }
+    .kurse_table{
+        display: none;
+    }
+    .kurse_title_section{
+        display: flex;
+        flex-direction: column;
+    }
+    .kurse_title_section .ihr_contain_text{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .kurse_inner_table{
+        background: var(--light-parpal);
+    }
+    .kurse_main_section {
+        padding: 40px 0 30px;
+    }
+    .main_kurse_mobile_section, .kurse_mobile_table{
+        display: block;
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition: all 0.5s ease 0s;
+        -ms-transition: all 0.5s ease 0s;
+        -o-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;   
+    }
+    .footer_abonniere_all .common-small-btn{
+        min-width: 100%;
+    }
+    .footer_abonniere_all .email_box input{
+        max-width: 100%;
+    }
+    /*========================== Home page Css End =======================*/  
+    /*First Section Start*/
+    /* Contact Page CSS Start*/
+    .kontakt_page .kontakt_page_title .main_title{
+        font-family: sfpro_heavy;
+    }
+    .kontakt_details_section .phone_details .phone_det .tel_text,
+    .kontakt_details_section .phone_details .phone_det .email_text {
+        display: none;
+    }
+    .address_icon, .phone_img {
+        margin-right: 20px;
+    }
+    .kontakt_details_section {
+        padding: 45px 0 70px;
+    }
+    .kontakt_details_section .ihr_inner_chart_section {
+        padding-bottom: 60px;
+        border-radius: 10px;
+        padding-top: 30px;
+    }
+    .jetzt_probetraining_section input::placeholder,
+    .jetzt_probetraining_section .email_message textarea::placeholder{
+        color: var(--primary-color);
+    }
+    .kontakt_form_lines {
+        top: 53%;
+    }
+    .kontakt_details_section .ihr_chart_section .container:after{
+        display: none;
+    }
+    .kontakt_details_section .address_icon, .phone_img {
+        width: 72px;
+    }
+    .kontakt_details_inner_section .phone_details {
+        margin-top: 30px;
+    }
+    .jetzt_probetraining_inner_section .main_title_italic{
+        font-family: sfpro_heavyitalic;
+    }
+    .jetzt_probetraining_inner_section .main_title br{
+        display: none;
+    }
+    .jetzt_probetraining_inner_section .name_telephone input, .email_message input {
+        height: 60px;
+        padding: 10px 20px;
+    }
+    .jetzt_probetraining_inner_section .email_message textarea {
+        padding: 15px 20px;
+    }
+    .jetzt_probetraining_inner_section .submit_btn .common-small-btn{
+        min-width: 100%;
+    }
+    .jetzt_probetraining_section .kontact_details {
+        padding: 15px 0px;
+    }
+    .jetzt_probetraining_section {
+        padding-bottom: 0px;
+    }
+    .jetzt_probetraining_section .name_telephone input, .email_message input {
+        height: 50px;
+    }
+    .konkat_address p, .phone_det p a {
+        font-size: 18px;
+    }
+    .ihr_chart_section .chart_title{
+        display: none;
+    }
+    .ihr_chart_section .day_list_section .chart_title {
+        display: block;
+    }
+    .ihr_chart_section .chart_inner_title{
+        justify-content: space-around;
+    }
+    /*First Section End*/
+
+    /* Second Section Start*/
+    .ihr_chart_section .chart_wrap_lines {
+        width: 60px;
+    }
+    .ihr_chart_section .main_drop_title span{
+        margin-left: 10px;
+    }
+    .ihr_chart_section .day_list_section {
+        margin-top: 50px;
+    }
+    .ihr_chart_section .ihr_chart_lines {
+        height: 280px;
+    }
+    .all_day_list ul li + li {
+        margin-top: 15px;
+    }
+    /* Second Section End*/
+    /* Contact Page CSS End*/
+
+    /* Studio Page Start CSS */
+    /* First Section Start */
+    .team_lines{
+        width: 100%;
+        top: -36%;
+        left: 0%;
+        height: 100%;
+    }
+    .team_lines img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover
+    }
+    .uberzeuge_section .video_bottom_img{
+        right: -23%;
+    }
+    .team_treibstoff_section {
+        padding: 60px 0 15px;
+    }
+    .team_unser_team_section .team_unser_inner_section{
+        padding-bottom: 30px; 
+    }
+    .team_unser_team_section:before {
+        height: 65%;
+    }   
+    /* First Section End */
+
+    /* Second Section Start */
+    .unser_team_section .row .unser_col {
+        padding: 0 0px;
+    }
+    .unser_team_box h3{
+        padding-bottom: 5px;   
+    }
+    .unser_team_box p{
+        color: #2F0147;
+    }
+    .member_name_and_hobbys p{
+        font-weight: bold;
+    }
+    .unser_main_team_section .owl-carousel .owl-nav .owl-next,
+    .unser_main_team_section .owl-carousel .owl-nav .owl-prev,
+    .einblicke_main_section .box_container_slider .owl-nav .owl-next,
+    .einblicke_main_section .box_container_slider .owl-nav .owl-prev{ 
+        width: 34px;
+        height: 34px;
+    }
+    .einblicke_main_section .belie_section .belie_heading h2,
+    .unser_team_section .main_title{
+        font-size: 38px;
+    }
+    .einblicke_main_mobile_section .belie_box_two{
+        padding: 20px;
+    }
+    .einblicke_main_section .box_container .box_shadow .einblicke_img{
+        height: 100%;
+    }
+    .einblicke_main_mobile_section .einblicke_img img{
+        width: 100%;
+    }
+    .einblicke_main_section .belie_section {
+        padding: 0 15px;
+    }
+    .einblicke_main_section .box_shadow {
+        padding: 20px;
+    }
+    .einblicke_main_mobile_section .ihr_contain_text{
+        padding-top: 10px;
+    }
+    .einblicke_main_mobile_section .einblicke_box_contain .ihr_contain_text{
+        color: var(--light-parpal);
+        font-size: 20px;
+        line-height: 1.2;
+    }
+    .einblicke_main_mobile_section .belie_heading h2{
+        font-family: sfpro_heavy;
+        padding-bottom: 30px;
+        padding-top: 40px;
+    }
+    .unser_main_team_section{
+        padding-bottom: 10px; 
+    }
+    .einblicke_main_mobile_section .mobile_view_einblic .col-sm-12{
+        padding-bottom: 30px;
+    }
+    .einblicke_main_mobile_section,
+    .einblicke_main_mobile_section .einblicke_box_contain{
+        display: block;
+    }
+    .einblicke_main_mobile_section .einblicke_box_contain{
+        padding: 0px 30px 0px 30px;
+        margin-bottom: 0;
+    }
+    .einblicke_main_mobile_section .belie_box_one .belie_box_img{
+        padding: 20px;
+    }
+    .einblicke_main_mobile_section .belie_box_two,
+    .einblicke_main_mobile_section .belie_box_one {
+        max-width: 100%;
+        background-color: var(--base-parpal);
+        height: 100%;
+    }
+    .einblicke_main_mobile_section .belie_box_one .belie_box_img img{
+        height: auto;
+    }
+
+    .einblicke_main_section .owl-carousel .owl-stage-outer{
+        padding-top: 0px; 
+    }
+    .einblicke_main_section .last_second_two,
+    .einblicke_main_section .belie_title,
+    .einblicke_main_section .belie_body,
+    .einblicke_main_section .bottom_title,
+    .einblicke_box_contain,
+    .einblicke_main_section .belie_heading,
+    .vr_showroom_section:before{
+        display: none;
+    }
+    .einblicke_main_mobile_section .last_second_two{
+        display: none;
+    }
+    .box_shadow{
+        height: 509px;
+    }
+    .einblicke_img img{
+        object-fit: cover;
+        height: 100%;
+    }
+    .einblicke_main_section .belie_boximg img{
+        object-fit: cover;
+        height: 100%;
+    }
+    .einblicke_main_section .mobile_view_einblic{
+        display: block;
+    }
+    .einblicke_main_section .mobile_view_einblic .box_shadow{
+        height: auto;
+    }
+    .mobile_view_einblic .belie_box_two .belie_body p {
+        line-height: 1.2;
+    }
+    /* Second Section End */
+
+    /*Third Section Start*/
+    .eindrucke_aus_contain .more_main{
+        padding-top: 10px;
+    }
+    .einblicke_main_section .studio_ein_lines{
+        display: none;
+    }
+    .mobile_view_einblic_backline{
+        position: absolute;
+        top: 63%;
+    }
+    .einblicke_main_section .box_container_slider .owl-stage-outer,
+    .unser_main_team_slider .owl-stage-outer{
+        position: relative;
+    }
+    .einblicke_main_section .box_container_slider .owl-nav .owl-next,
+    .unser_main_team_slider .owl-nav .owl-next{
+        position: absolute;
+        top: 40%;
+        margin-left: 0;
+        right: -3.2%;
+        -webkit-box-shadow: -3px 1px 4px 0px rgb(234 234 234);
+                box-shadow: -3px 1px 4px 0px rgb(234 234 234);
+    }
+    .einblicke_main_section .box_container_slider .owl-nav .owl-prev,
+    .unser_main_team_slider .owl-nav .owl-prev{
+        position: absolute;
+        top: 40%;
+        margin-right: 0;
+        left: -3.2%;
+        -webkit-box-shadow: 2px 1px 4px 0px rgb(234 234 234);
+                box-shadow: 2px 1px 4px 0px rgb(234 234 234);
+    }
+    .einblicke_main_section .box_container_slider .owl-nav .owl-next{
+        -webkit-box-shadow:unset;
+                box-shadow:unset;
+        right: -3%;
+    }
+    .einblicke_main_section .box_container_slider .owl-nav .owl-prev{
+        -webkit-box-shadow:unset;
+                box-shadow:unset;
+        left: -3%;
+    }
+    .mobile_view_einblic .belie_box_two .belie_body p {
+        height: 100%;
+    }
+    /*Third Section End*/
+
+    /* Video Section Start */
+    .video_bm {
+        height: 577px;
+    }
+    .vr_showroom_section .vr_showroom_inner_section .main_title{
+        font-size: 38px;
+    }
+    .vr_showroom_section .video_bottom_mobile{
+        background: var(--light-parpal);
+    }
+    .vr_showroom_section{
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    .power_by {
+        bottom: 10%;
+    }
+    .video_details h4{
+        font-size: 20px;
+        font-family: sfpro_heavyitalic;
+        text-transform:uppercase;
+        padding-bottom: 40px;
+    }
+    .video_details p{
+        font-size: 18px;        
+    }   
+    /* Video Section End */
+    /* Studio Page End CSS */
+
+    /* leistungen Page CSS Start */
+    /* first Section Start */
+    .perasonal_training_main .personal_trading_contain .ihr_contain_text{
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;  
+        overflow: hidden;
+        line-height: 1.5;
+    }
+    .was_wir_bieten_section {
+        padding: 50px 0 40px;
+    }
+    .personal_info_media {
+        margin-top: -60px;
+    }
+    .category_lines {
+        top: 13%;
+    }
+    .personal_info_media .personal_trading_contain p{
+        margin: 20px 0 25px;
+        color: var(--primary-color);
+    }
+    .was_wir_contains .more_text_height .ihr_contain_text{
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .personal_trading_contain h2{
+        font-size: 25px;
+        font-family: sfpro_heavyitalic;
+    }
+    .personal_info_media .media_btn_show{
+        min-width: 100%;
+        font-size: 18px;
+        display: block;
+        padding: 10px 25px;
+    }
+    .personal_trading_contain{
+        text-align: center;
+    }
+    .personal_traing_img_section .personal_img {
+        width: 310px;
+        height: 310px;
+    }
+    .news_section .background_line {
+        top: 73.5%;
+        left: 52%;
+        width: 100%;
+    }
+    /* first Section End */
+
+    /* Second Section Start */
+    .was_wir_item .was_images {
+        max-height: 255px;
+    }
+    .was_wir_bieten_section .owl-carousel .owl-nav button.owl-next, 
+    .was_wir_bieten_section .owl-carousel .owl-nav button.owl-prev{
+        background: white;
+        width: 34px;
+        height: 34px;
+    }
+    .was_wir_item .was_wir_contains h3 {
+        padding-top: 15px;
+    }
+    .was_wir_item{
+        padding: 0 10px; 
+    }
+    .was_wir_bieten_section .owl-stage-outer{
+        z-index: 1;
+        position: relative;
+    }
+    .was_wir_bieten_section .owl-theme .owl-nav{
+        margin-top: 0px;
+    }
+    .was_wir_bieten_section .owl-theme .owl-nav .owl-next{
+        margin-left: 0px;
+        position:  absolute;
+        right: -2.5%;
+        top: 40%;
+        transform: translateY(-50%);
+        z-index: 1;
+    }
+    .was_wir_bieten_section .owl-theme .owl-nav .owl-prev{
+        margin-left: 0px;
+        position:  absolute;
+        left: -1.5%;
+        top: 40%;
+        transform: translateY(-50%);
+        z-index: 1;
+    }
+    /* Second Section End */
+
+    /* third Section Start */
+    .was_wir_bieten_slider .owl-theme .owl-dots .owl-dot span{
+        margin: 3px 3px;
+    }
+    .was_wir_bieten_section .was_wir_bieten_slider .owl-dots{
+        margin-top: 20px;
+    }
+    .was_wir_bieten_section .was_wir_bieten_slider 
+    .owl-dots span{
+        background-color: var(--light-parpal);
+        opacity: 50%;
+    }
+    .was_wir_bieten_section .was_wir_bieten_slider .owl-dots .active span{
+        opacity: 1;
+        background-color: var(--light-parpal);
+    }
+    /* third Section End */
+    /* leistungen Page CSS End */
+
+
+    /* Alle Section Start */
+    .alle_section .alle_body .main_title h6 {
+        font-size: 20px;
+    }
+    .alle_body .sub_heading h6 {
+        font-size: 17px;
+    }
+    .alle_body .alle_paragraph {
+        font-size: 16px;
+        line-height: 1.2;
+    }
+    /* Alle Section End */
+
+    /* News Section Start */
+    .new_left_side .main_title h3 ,
+    .combine_section .beitrag_section .main_title h3,
+    .unser_main_team_section .unser_team_section h2 {
+        font-family: sfpro_heavy;
+    }
+    .news_section .main_title h3,.beitrag_section .main_title h3,.alle_section .main_title h3 {
+        font-size: 36px;
+    }
+    .news_section .section_subtext h4,.beitrag_section .section_subtext h4 {
+        font-size: 20px;
+    }
+    .news_section .ihr_contain_text {
+        padding-top: 20px;
+        max-width: 100%;
+    }
+    .unser_main_team_section .owl-stage-outer {
+        padding-bottom: 15px;
+    }
+    .unser_main_team_section .owl-theme .owl-nav {
+        margin-top: 0px;
+    }
+    .unser_team_section .main_title {
+        margin-bottom: 0px;
+    }
+    .new_left_side .ihr_contain_text p,
+    .beitrag_section .beitrag_contain .b_right_info .ihr_contain_text p {
+        color: var(--primary-color);
+    }
+    .new_left_side{
+        padding-bottom: 20px;
+    }
+    .news_section .ihr_contain_text p+p {
+        padding-top: 20px;
+    }
+    .alle_section .owl-carousel .owl-nav button.owl-next,
+    .alle_section .owl-carousel .owl-nav button.owl-prev{
+        width: 34px;
+        height: 34px;
+    }
+    /* News Section End */  
+
+    .footer-wrapper .email_box, .footer-wrapper .email_box input{
+        width: 100%;
+    }    
+    .footer_abonniere_all .common-small-btn, .footer_abonniere_all .email_box input{
+        min-width: 100%;
+    }
+
+    .email_img > span{
+        font-size: 16px;
+    }
+    .email_img {
+        top: 16%;
+    }
+    .mitgliedschaft_online_section:after {
+        left: -29.5%;
+        top: 31%;
+        transform: scale(0.5);
+    }
+
+    .online_analyse_inner_section .section_subtext{
+        font-style: italic;
+    }
+    .kurse_main_table {
+        padding-bottom: 40px;
+    }
+    .offnungszeiten_section, .social_media{
+        flex-direction: column;
+    }
+    .offnungszeiten_inner_section, .social_all_icon{
+        align-self: flex-end;
+    }
+    .ihr_studion_big_img:after{
+        display: none;
+    }
+    .ihr_studio_section {
+        background: linear-gradient(180deg, rgba(255,255,255,0) 50%, rgba(156,82,139,0.7567401960784313) 100%);
+    }
+    .jetzt_d_flex, .jetzt_d_flex .common-small-btn{
+        width: 100%;
+    }
+    .owl-carousel .owl-item .belie_mail_icon img{
+        width: 100%;
+        object-fit: cover;
+    }
+}
+
+@media screen and (max-width: 480px){
+    /*========================== Home page Css Start =======================*/        
+    body{
+        padding-bottom: 35px;
+    }
+    .ihr_left_contain .section_subtext{
+        max-width: 200px;
+    }
+    .dots_contain br{
+        display: none;
+    }
+    .main_title_italic, .main_title {
+        font-size: 28px;
+    }
+    .course_for_sale p{
+        max-width: 285px;
+    }
+    .ihr_right_contain .ihr_right_image{
+        width: 87%;
+    }
+    .course_for_sale p{
+        margin: 5px 0px;
+    }
+    .online_main_img .online_circle_image .common-small-btn{
+        min-width: 100%;
+    }
+    .faq_section:before {
+        right: -41%;
+        transform: scale(0.5);
+    }
+    .faq_section:after {
+        left: -41%;
+        transform: scale(0.5);
+    }
+    .footer_abonniere_all p {
+        font-size: 16px;
+    }
+    .kurse_hart {
+        right: -41.5%;
+    }
+    /*========================== Home page Css End =======================*/ 
+
+    /* Contact Page Start*/
+    .jetzt_probetraining_section .main_title{
+        font-size: 30px;
+    }
+    .ihr_chart_section .day_list_section .all_day_list {
+        min-width: 233px;
+    }
+    .news_section {
+        padding-bottom: 40px;
+    }
+    .ihr_chart_section .chart_inner_title{
+        min-width:100%;
+    }
+    .ihr_chart_section .chart_wrap_lines {
+        width: 40px;
+    }
+    .ihr_chart_section .ihr_chart_lines {
+        height: 200px;
+    }
+    .kontakt_details_section .ihr_chart_lines {
+        width: 20px;    
+    }
+    .kontakt_map_section_mobile iframe{
+        height: 400px;
+    }
+    /* Contact Page End*/
+
+    /* Studio Page CSS Start */
+    /* First section Start */
+    .uberzeuge_section .video_bottom_img{
+        right: -28%;
+    }
+    .unser_main_team_section {
+        padding: 25px 0 25px;
+    }
+    .box_shadow {
+        height: 370px;
+    }
+    .team_unser_inner_section .team_model_imag {
+        width: 310px;
+        height: 310px;
+    }
+    .moblie_view_div .team_contain_title {
+        font-size: 23px;
+    }
+    .team_unser_team_section .team_contain{
+        margin-top: -35%;
+        height: 380px;
+        padding:30px;
+    }
+    .team_unser_team_section .Left_dotted_box {
+        left: -73.5%;
+        top: 40%;
+    }
+    .unser_main_team_slider .owl-nav .owl-next{
+        right: -4.2%;
+    }
+    .unser_main_team_section .owl-carousel .owl-nav .owl-prev{
+        left: -4.2%;   
+    }
+    .team_quate p:before,.team_quate p:after{
+        font-size: 40px;
+    }
+    .team_quate p:before {
+        top: -15%;
+    }
+    .moblie_view_div .team_contain_subtitle {
+        font-size: 20px;
+    }
+    .team_unser_inner_section .team_contain .team_quate p {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .team_unser_team_section:before {
+        height: 78%;
+    }
+    .einblicke_main_section .box_container_slider .owl-nav .owl-prev{
+        -webkit-box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 43%);
+                box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 43%);
+        left: -4.1%;
+    }
+    .einblicke_main_section .box_container_slider .owl-nav .owl-next{
+        right: -4.1%;
+        -webkit-box-shadow: -3px 2px 4px 0px rgb(0 0 0 / 43%);
+                box-shadow: -3px 2px 4px 0px rgb(0 0 0 / 43%);
+    }
+    /* First section End */
+    /*Video Section Start*/
+    .uberzeuge_inner_section .section_subtext {
+        font-size: 18px;
+    }
+    .jetzt_main_section .main_title{
+        font-size: 22px;
+    }
+    .einblicke_main_mobile_section .belie_heading h2{
+        padding-bottom: 30px;
+    }
+    .einblicke_main_mobile_section .einblicke_box_contain{
+        padding: 15px 10px 10px 10px; 
+    }
+    .einblicke_main_mobile_section .mobile_view_einblic .col-sm-12 {
+        padding-bottom: 20px;
+    }
+    .vr_showroom_section {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .einblicke_main_mobile_section .einblicke_box_contain .ihr_contain_text{
+        line-height: 1;
+    }
+    /*Video Section End*/
+    /* Studio Page CSS End */ 
+
+    .footer-fixed-icon {
+        display: block;
+    }  
+    .ihr_right_contain .ihr_right_image{
+        left: 29%;
+    }    
+}
+@media screen and (max-width: 450px) {
+    /*========================== Home page Css End =======================*/   
+    .leistungen_inner_section .col-6:nth-child(1), 
+    .leistungen_inner_section .col-6:nth-child(2){
+        margin-bottom: 15px;
+    }         
+    .ernährung_img:after {
+        top: -30%;
+        right: -44%;
+        transform: scale(0.5);
+    }
+    .ihr_studion_big_img {
+        height: 440px;
+    }
+    .online_contain ul li{
+        font-size: 17px;
+        padding-left: 28px;
+    }
+    .online_contain ul li:after{
+        transform: scale(0.9);
+        margin-top: 1px;
+    }
+    .online_analyse_inner_section {
+        margin-bottom: -30px;
+    }
+    .sind_model_circle {
+        width: 300px;
+        height: 300px;
+    }
+
+    .we-product-img {
+        width: 70px;
+    }
+    .index_page .we-product-content {
+        width: calc(100% - 70px);
+    }
+    .index_page .we-product-block {
+        max-width: 225px;
+    }
+    .we-product-block{
+        padding: 40px 8px 15px;
+    }
+    .footer_abonniere_section {
+        bottom: 320px;
+    }
+
+    .kurse_jetzt_probetraining_section:before {
+        left: -31%;
+        transform: scale(0.5);
+    }
+
+    .jetzt_d_flex .common-small-btn {
+        margin-top: 20px;
+    }
+
+    .drop_down_first .main_drop_title p {
+        min-width: 100px;
+    }
+    .kurse_mobile_inner_table .main_drop_title span {
+        margin-left: 8px;
+    }
+    .drop_down_sec .main_drop_title p {
+        min-width: 65px;
+    }
+    .kurse_mobile_table {
+        padding: 20px 15px;
+    }
+    .kurse_inner_table{
+        padding: 30px 15px;
+    }
+    /*========================== Home page Css End =======================*/        
+
+    /* leistungen Page CSS Start */
+    /* Third Section Start */
+    .personal_traing_img_section .personal_img {
+        width: 250px;
+        height: 250px;
+    }
+    .was_wir_bieten_section .owl-theme .owl-nav .owl-next{
+        right: -3.5%;
+    }
+    /* Third Section End */
+    /* leistungen Page CSS End */
+    .beitrag_btn{
+        min-width: 100%;
+        font-size: 20px;
+    }
+    .kontakt_map_section_mobile iframe{
+        height: 350px;
+    }
+
+    .leistungen_images_section .owl-carousel .owl-nav button.owl-next, 
+    .leistungen_images_section .owl-carousel .owl-nav button.owl-prev{
+        width: 34px;
+        height: 34px;
+    }
+    .bewertungen_inner_section .owl-nav .owl-prev, .bewertungen_inner_section .owl-nav .owl-next{
+        width: 34px;
+        height: 34px;
+    }
+    .leistungen_images_section .owl-carousel .owl-nav button.owl-prev, .bewertungen_inner_section .owl-nav .owl-prev {
+        left: -10px; 
+    } 
+    .leistungen_images_section .owl-carousel .owl-nav button.owl-next, .bewertungen_inner_section .owl-nav .owl-next{
+        right: -10px;
+    }
+    .leistungen_all_items {
+        padding: 0 8px;
+    }
+
+    .mitgliedschaft_online_section:after{
+        left: -42.5%;
+    }
+    .bewertungen_col_first{
+        padding: 0 8px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .ihr_right_contain .ihr_right_image{
+        width: 100%;
+        left: 33%;
+    }
+    .ihr_main_section:before {
+        left: -123.8%;
+        top: -27.5%;
+    }    
+    .footer_bg_none{
+        display: none;
+    }
+    .footer_bg_block{
+        display: block;
+    }
+    /*========================== Home page Css End =======================*/        
+    .kontakt__section, .offnungszeiten_section, .social_media, .social_all_icon ul{
+        flex-wrap: wrap;
+    }
+    .kontakt_left, .offnungszeiten_left, .social_left{
+        flex-basis: 100%;
+    }
+    .kotakt_detials, .offnungszeiten_inner_section, .social_all_icon{
+        flex-basis: 100%;
+        padding-left: 25px;
+        margin-top: 15px;
+        width: 74%;
+    }
+    .dropdown-submenu ul {
+        padding-left: 30px;
+    }
+    .ihr_studion_big_img {
+        height: 400px;
+    }
+    /*========================== Home page Css End =======================*/        
+}
+
+@media screen and (max-width: 375px) {
+    .unser_main_team_section:before {
+        top: -22%;
+        left: -25.5%;
+    }
+    .ihr_right_contain .ihr_right_image {
+        left: 35%;
+        width: 100%;
+    }
+    .ihr_main_section:before {
+        left: -126.8%;
+        top: -30.5%;
+    }
+    /*========================== Home page Css Start =======================*/    
+    .bewertungen_section {
+        padding: 150px 0px 40px;
+    }   
+    .offnungszeiten_inner_section ul li{
+        flex-basis: unset;
+    } 
+    .header_main_section_banner .common-small-btn{
+        font-size: 20px;
+    }
+    .course_for_sale {
+        padding: 13px 20px 13px 13px;
+    }
+    .course_for_sale h2 {
+        font-size: 18px;
+    }
+    .course_for_sale p{
+        font-size: 14px;
+    }
+    .course_for_sale a{
+        font-size: 15px;
+    }
+    .main_title_italic, .main_title {
+        font-size: 32px;
+    }
+    .course_for_sale:after{
+        left: -38%;
+        top: -77%;
+    }
+    .ihr_studio_contain{
+        padding-bottom: 25px;
+    }
+
+    .bewertungen_img {
+        width: 80px;
+        height: 80px;
+    }
+    .common-small-btn{
+        font-size: 18px;
+    }
+    .mitgliedschaft_Jetzt_online {
+        padding: 30px 0px;
+    }
+    .sind_model_circle {
+        width: 250px;
+        height: 250px;
+    }
+    .sind_sie_section .ihr_contain_text {
+        margin: 10px auto;
+    }
+    .wie_fit_sind_section:after{
+        transform: scale(0.6);
+        left: -51.4%;
+    }
+    .ct_accordion_wrap {
+        padding: 0 15px 0;
+    }
+    .ct_accordion_info {
+        padding: 15px 0 20px;
+    }
+    .ct_accordion_lable > img {
+        width: 18px;
+    }
+    .faq_section:before {
+        right: -54%;
+    }
+    .faq_section:after {
+        left: -54%;
+    }
+    /*========================== Home page Css End =======================*/        
+
+    .kurse_jetzt_probetraining_section:before {
+        left: -50%;
+    }
+    .kurse_hart {
+        right: -54.5%;
+    }
+    .kurse_im_item {
+        margin: 0 8px;
+    }
+    .kurse_im_slider .owl-nav .owl-prev{
+        left: -5%;
+        width: 35px;
+        height: 35px;
+    }
+    .kurse_im_slider .owl-nav .owl-next{
+        right: -5%;
+        width: 35px;
+        height: 35px;
+    }
+    .kurse_blank {
+        min-height: 140px;
+    }
+    .kurse_im_slider .owl-theme .owl-nav {
+        margin-top: 20px;
+    }
+    .kurse_time_contain p, .kurse_time p, .kurse_time_contain h3{
+        font-size: 14px;
+    }
+    .kurse_mobile_inner_table .dropdown{
+        padding: 5px;
+    }
+    .kurse_mobile_table {
+        padding: 15px 10px;
+    }
+
+    .uberzeuge_section_hide_btn{
+        min-width: 100%;
+    }
+    .leistungen_all_items {
+        padding: 0 8px;
+    }
+    .leistungen_all_items {
+        padding: 0 8px;
+    }
+    .leistungen_inner_section .owl-nav .owl-prev{
+        left: -10px;
+    }
+    .leistungen_inner_section .owl-nav .owl-next{
+        right: -10px;
+    }
+    .sind_model_circle {
+        width: 100%;
+        height: 100%;
+    }
+    .ernährung_img:after {
+        top: -30%;
+        right: -64%;
+        transform: scale(0.5);
+    }
+}
+@media screen and (max-width: 360px) {
+    /* Studio Page CSS Start */
+    /* First section Start */
+    .team_unser_inner_section .team_model_imag {
+        width: 260px;
+        height: 260px;
+    }
+    .moblie_view_div .team_contain_title {
+        font-size: 22px;
+    }
+    .team_unser_inner_section .team_contain .team_quate p {
+        font-size: 18px;
+    }
+    .moblie_view_div .team_contain_subtitle {
+        font-size: 20px;
+    }
+    .team_unser_team_section .team_contain{
+        height: 385px;
+        padding: 30px;
+    }
+    .team_unser_team_section:before {
+        height: 77%;
+    }
+    .team_unser_team_section .Left_dotted_box {
+        left: -57.5%;
+        bottom: 15%;
+    }
+    .team_quate p:before {
+        top: -15%;
+        font-size: 30px;
+    }
+    .team_quate p:after {
+        font-size: 30px;
+        right: 11%;
+        top: 67%;
+    }
+    /* First section End */
+
+    /* Studio Page CSS End */
+
+
+}
+@media screen and (max-width: 320px) {
+    .main_title_italic, .main_title {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    /*========================== Home page Css Start =======================*/        
+    .section_subtext {
+        font-size: 16px;
+        line-height: 1.3;
+    }
+    .ihr_right_contain .ihr_right_image {
+        width: 90%;
+    }
+    .course_for_sale{
+        margin-left: 20px;
+    }
+    .mitgliedschaft_online_section:after{
+        left: -50%;
+    }
+    /*========================== Home page Css End =======================*/ 
+
+    .kontakt_map_section_mobile iframe{
+        height: 300px;
+    }
+    .ihr_main_chart_section .chart_wrap_lines{
+        width: 35px;
+    }  
+
+    .footer-fixed-icon ul li:nth-child(2):before {
+        right: -3px;
+    }
+    .footer-fixed-icon ul li:nth-child(2):after {
+        left: 3px;
+    }     
+}
+
+
+
+
